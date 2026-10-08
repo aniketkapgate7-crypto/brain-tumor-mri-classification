@@ -1,0 +1,491 @@
+image_path,filename,label,class_idx,width,height,aspect_ratio,area_px,file_size_kb,mean_intensity,std_intensity,laplacian_variance,md5_hash
+data\raw\pituitary_tumor\training_p (617).jpg,training_p (617).jpg,pituitary_tumor,3,512,512,1.0,262144,30.63,44.88,43.9,68.78,8bf5bf6f8321f9d17fff9d3aed937c6a
+data\raw\meningioma_tumor\training_m2 (16).jpg,training_m2 (16).jpg,meningioma_tumor,1,512,512,1.0,262144,28.03,41.75,45.23,63.16,dd3620967c3e91fc60e20e732fa3174b
+data\raw\pituitary_tumor\training_p (521).jpg,training_p (521).jpg,pituitary_tumor,3,512,512,1.0,262144,33.76,51.96,43.62,64.54,f6414f0e2245d3c12a4270313e17b286
+data\raw\meningioma_tumor\testing_image(31).jpg,testing_image(31).jpg,meningioma_tumor,1,239,224,1.067,53536,19.36,95.22,75.48,1194.65,a846583cd8dcb5b03d33354264fc7fa2
+data\raw\meningioma_tumor\training_m (87).jpg,training_m (87).jpg,meningioma_tumor,1,512,512,1.0,262144,18.52,33.06,47.02,36.35,6f68bbf406c353ade2611767f6b7c9f3
+data\raw\glioma_tumor\training_gg (291).jpg,training_gg (291).jpg,glioma_tumor,0,512,512,1.0,262144,25.14,34.95,37.86,61.54,eefb1065b86537a28630ab6763477a91
+data\raw\meningioma_tumor\training_m1(66).jpg,training_m1(66).jpg,meningioma_tumor,1,512,512,1.0,262144,17.23,25.1,44.12,31.18,d1796efcbdb43f9f165031b4c78c55a3
+data\raw\glioma_tumor\training_gg (331).jpg,training_gg (331).jpg,glioma_tumor,0,512,512,1.0,262144,23.83,31.1,31.85,46.0,fdcb88f39eb0a01a645cbdab1ab7346b
+data\raw\meningioma_tumor\training_m1(182).jpg,training_m1(182).jpg,meningioma_tumor,1,200,236,0.847,47200,13.14,104.32,78.21,1940.66,bc13bdda7abe567471c96696ca0a85ea
+data\raw\glioma_tumor\training_gg (583).jpg,training_gg (583).jpg,glioma_tumor,0,512,512,1.0,262144,21.49,26.2,33.58,60.87,4db3c73876a15c457774d78acf6f3d6e
+data\raw\meningioma_tumor\training_m1(105).jpg,training_m1(105).jpg,meningioma_tumor,1,324,284,1.141,92016,20.75,105.55,55.27,149.33,16f2a3d1ff82713cd26416530cbe8b32
+data\raw\no_tumor\training_image(143).jpg,training_image(143).jpg,no_tumor,2,236,357,0.661,84252,25.16,103.35,91.58,1022.46,24e83deaaae9ab0f15565690e474f5fc
+data\raw\glioma_tumor\testing_image(10).jpg,testing_image(10).jpg,glioma_tumor,0,386,406,0.951,156716,33.06,60.15,63.71,213.89,8dd205bf374632b6dfe1bf962e599194
+data\raw\no_tumor\training_image(284).jpg,training_image(284).jpg,no_tumor,2,225,225,1.0,50625,8.64,37.32,44.8,224.17,a6513fef0e52dd67af6e6026f1a66155
+data\raw\pituitary_tumor\training_p (656).jpg,training_p (656).jpg,pituitary_tumor,3,512,512,1.0,262144,28.63,41.91,46.05,139.07,f73a4078defeaf0fec7f36accb7a0ae5
+data\raw\meningioma_tumor\training_m3 (65).jpg,training_m3 (65).jpg,meningioma_tumor,1,512,512,1.0,262144,29.46,55.74,46.1,51.77,9a64cd1e7345ea79111e2198162fdc21
+data\raw\glioma_tumor\training_gg (362).jpg,training_gg (362).jpg,glioma_tumor,0,512,512,1.0,262144,25.48,41.59,44.55,52.41,9c141de92d2225bdeb4e010a6d9a652d
+data\raw\pituitary_tumor\training_p (149).jpg,training_p (149).jpg,pituitary_tumor,3,512,512,1.0,262144,31.66,64.74,44.46,58.37,530d37d5545c65dc113344d2f891c373
+data\raw\meningioma_tumor\training_m3 (171).jpg,training_m3 (171).jpg,meningioma_tumor,1,512,512,1.0,262144,30.64,38.73,27.8,54.7,f15431b787dc73da3b1f52c75ddbd018
+data\raw\glioma_tumor\training_gg (748).jpg,training_gg (748).jpg,glioma_tumor,0,512,512,1.0,262144,19.25,23.95,30.06,39.87,4edd3133490c10fe2466825425dbd706
+data\raw\pituitary_tumor\training_p (32).jpg,training_p (32).jpg,pituitary_tumor,3,512,512,1.0,262144,31.18,34.74,37.83,111.99,d1db6cc063f0422592c0d46dc58446f0
+data\raw\meningioma_tumor\training_m2 (52).jpg,training_m2 (52).jpg,meningioma_tumor,1,512,512,1.0,262144,25.0,42.26,44.02,43.6,628100a306b30a6859c520b50851de12
+data\raw\pituitary_tumor\training_p (564).jpg,training_p (564).jpg,pituitary_tumor,3,512,512,1.0,262144,19.29,28.58,39.44,57.12,970272f54e887040ee2d6baab7f5afd0
+data\raw\glioma_tumor\training_gg (718).jpg,training_gg (718).jpg,glioma_tumor,0,512,512,1.0,262144,24.43,41.67,44.18,52.99,a7b00541b31b4817dd44da65aaea7ea3
+data\raw\meningioma_tumor\training_m3 (240).jpg,training_m3 (240).jpg,meningioma_tumor,1,512,512,1.0,262144,28.01,49.07,45.59,51.57,61064c9194c007f78f3c857c6c8c88ea
+data\raw\meningioma_tumor\training_m3 (6).jpg,training_m3 (6).jpg,meningioma_tumor,1,512,512,1.0,262144,29.26,51.06,47.89,74.02,9f2aa0388f7ed3c66c7f4287ef4cad85
+data\raw\meningioma_tumor\training_m3 (193).jpg,training_m3 (193).jpg,meningioma_tumor,1,512,512,1.0,262144,32.33,55.27,46.83,80.37,fc7d5dd78ed6fe15dadb595ff6998344
+data\raw\meningioma_tumor\training_m2 (119).jpg,training_m2 (119).jpg,meningioma_tumor,1,512,512,1.0,262144,22.68,39.47,49.43,44.46,8b4ed246d1a78862574ae3c7f9ba1801
+data\raw\pituitary_tumor\training_p (244).jpg,training_p (244).jpg,pituitary_tumor,3,512,512,1.0,262144,31.46,44.81,40.3,78.19,3a883e16cfb247a869eb1f7aa0cec9f5
+data\raw\glioma_tumor\training_gg (345).jpg,training_gg (345).jpg,glioma_tumor,0,512,512,1.0,262144,25.53,31.96,35.82,56.08,fc8afc8bcac5461cc5974e4e8259aaa5
+data\raw\pituitary_tumor\training_p (491).jpg,training_p (491).jpg,pituitary_tumor,3,256,256,1.0,65536,14.61,59.02,41.01,662.19,9bd98fe81c35e9798412ec50c2a86fd6
+data\raw\meningioma_tumor\training_m3 (136).jpg,training_m3 (136).jpg,meningioma_tumor,1,216,234,0.923,50544,9.23,83.0,48.49,1258.1,85368a2da1a274c34c6302826c46e487
+data\raw\glioma_tumor\training_gg (758).jpg,training_gg (758).jpg,glioma_tumor,0,512,512,1.0,262144,25.69,39.0,40.87,70.75,307c9dddf968cdf121293ab388ef3603
+data\raw\no_tumor\training_image(253).jpg,training_image(253).jpg,no_tumor,2,785,848,0.926,665680,133.43,70.6,55.24,59.99,46e6159f43133d0a4739a0f84fa10411
+data\raw\glioma_tumor\training_gg (379).jpg,training_gg (379).jpg,glioma_tumor,0,512,512,1.0,262144,25.42,33.54,41.27,63.51,46052a9585c15196b7d1aba653016b59
+data\raw\meningioma_tumor\training_m2 (10).jpg,training_m2 (10).jpg,meningioma_tumor,1,512,512,1.0,262144,23.74,40.69,47.52,61.75,1b02dbeacd3a7a9f316734fa17633e0e
+data\raw\no_tumor\training_image(236).jpg,training_image(236).jpg,no_tumor,2,494,600,0.823,296400,50.07,92.58,40.87,32.55,4203b88f2ff81d366a5a4a77674314f6
+data\raw\pituitary_tumor\training_p (269).jpg,training_p (269).jpg,pituitary_tumor,3,512,512,1.0,262144,36.69,47.72,37.82,81.27,0d59611c87b5e19eeee7fc5ba56b9a8d
+data\raw\meningioma_tumor\training_m1(195).jpg,training_m1(195).jpg,meningioma_tumor,1,200,235,0.851,47000,13.42,116.5,62.08,745.82,0047debbf9ede24ff8c7a2517cb27164
+data\raw\glioma_tumor\training_gg (204).jpg,training_gg (204).jpg,glioma_tumor,0,512,512,1.0,262144,30.96,51.41,49.5,62.86,ac54ce58abbd346dfb9782586b04d824
+data\raw\meningioma_tumor\testing_image(16).jpg,testing_image(16).jpg,meningioma_tumor,1,201,207,0.971,41607,14.46,109.17,62.62,752.81,32ba7a49f37e07b292b83a380daa18d2
+data\raw\meningioma_tumor\training_m1(184).jpg,training_m1(184).jpg,meningioma_tumor,1,225,225,1.0,50625,7.68,66.94,48.59,441.6,09bd38f7c50e865d4220c345612089fb
+data\raw\pituitary_tumor\training_p (67).jpg,training_p (67).jpg,pituitary_tumor,3,512,512,1.0,262144,34.07,53.31,46.13,109.02,dd6cf7c1aa4daae580136ac38438132a
+data\raw\no_tumor\training_image(159).jpg,training_image(159).jpg,no_tumor,2,236,222,1.063,52392,15.77,40.06,49.03,1049.06,385452ecc27a12ff66e36afc31e49048
+data\raw\meningioma_tumor\testing_image(38).jpg,testing_image(38).jpg,meningioma_tumor,1,369,395,0.934,145755,27.07,99.02,75.95,142.68,5beb3f5b4e35da1b2508733dd3c43f38
+data\raw\pituitary_tumor\training_p (412).jpg,training_p (412).jpg,pituitary_tumor,3,512,512,1.0,262144,29.96,58.35,43.63,53.67,0b8ad6e1c58f4bf6e3b425d632388b36
+data\raw\glioma_tumor\training_gg (644).jpg,training_gg (644).jpg,glioma_tumor,0,512,512,1.0,262144,19.46,24.65,35.29,62.65,1b5d52a9578ec0f931854f164ba99390
+data\raw\glioma_tumor\training_gg (630).jpg,training_gg (630).jpg,glioma_tumor,0,512,512,1.0,262144,24.38,34.01,47.23,87.89,5341f737d1dc1d40ad929a880bc8020a
+data\raw\meningioma_tumor\training_m3 (66).jpg,training_m3 (66).jpg,meningioma_tumor,1,512,512,1.0,262144,29.34,54.3,44.7,53.2,8cdcff6a4387031484c11dd69cad0b27
+data\raw\no_tumor\training_image(270).jpg,training_image(270).jpg,no_tumor,2,314,260,1.208,81640,20.38,44.85,52.99,750.94,33c56e184f1729167e9d39abc1a4776d
+data\raw\meningioma_tumor\training_m (71).jpg,training_m (71).jpg,meningioma_tumor,1,512,512,1.0,262144,24.6,39.98,44.77,64.43,2d40646c149ed74214416c0fe5b362c0
+data\raw\meningioma_tumor\training_m3 (173).jpg,training_m3 (173).jpg,meningioma_tumor,1,512,512,1.0,262144,32.93,39.89,30.29,61.84,dbfe7a428ac3b03448a759aeed2d6a01
+data\raw\pituitary_tumor\training_p (348).jpg,training_p (348).jpg,pituitary_tumor,3,512,512,1.0,262144,35.99,51.72,43.26,87.49,968c2e3cb420fbd86895f46b72785957
+data\raw\no_tumor\training_image(200).jpg,training_image(200).jpg,no_tumor,2,655,602,1.088,394310,67.7,97.33,75.78,113.7,33545775c68d06694c0cd52a399584a7
+data\raw\glioma_tumor\training_gg (571).jpg,training_gg (571).jpg,glioma_tumor,0,512,512,1.0,262144,17.47,20.83,26.9,34.39,e6166891ccda53e9fbb650c0338c61af
+data\raw\meningioma_tumor\testing_image(9).jpg,testing_image(9).jpg,meningioma_tumor,1,314,358,0.877,112412,25.79,83.54,65.73,128.51,af3b8492373b16b0e8b588a0dce1251d
+data\raw\glioma_tumor\training_gg (463).jpg,training_gg (463).jpg,glioma_tumor,0,512,512,1.0,262144,25.67,51.4,55.43,41.98,202c7f7d224d14488ee211518059027c
+data\raw\pituitary_tumor\training_p (290).jpg,training_p (290).jpg,pituitary_tumor,3,512,512,1.0,262144,39.04,55.78,40.99,85.82,0feb0dd26a0851cbd39a69fce8042271
+data\raw\meningioma_tumor\training_m2 (105).jpg,training_m2 (105).jpg,meningioma_tumor,1,512,512,1.0,262144,24.74,41.25,50.43,62.72,a2f5462011263f65f6fc0a43a126d515
+data\raw\meningioma_tumor\training_m (121).jpg,training_m (121).jpg,meningioma_tumor,1,512,512,1.0,262144,18.12,32.34,47.32,31.89,7332c7762622f6c452e97dbd6217bd3f
+data\raw\pituitary_tumor\training_p (211).jpg,training_p (211).jpg,pituitary_tumor,3,512,512,1.0,262144,31.69,39.91,29.37,50.44,35b9cea43e3de383594bfc679f4a882b
+data\raw\glioma_tumor\training_gg (421).jpg,training_gg (421).jpg,glioma_tumor,0,512,512,1.0,262144,23.59,31.04,36.17,41.79,fcf95bc1f9c2a1971309bd97f487ab38
+data\raw\meningioma_tumor\training_m2 (82).jpg,training_m2 (82).jpg,meningioma_tumor,1,512,512,1.0,262144,22.02,41.55,51.07,29.45,b8c51b91970ce46d239374a771734e06
+data\raw\no_tumor\training_image (57).jpg,training_image (57).jpg,no_tumor,2,236,236,1.0,55696,9.33,63.23,83.44,984.78,6495fc05280819be82ed863052127a82
+data\raw\glioma_tumor\training_gg (640).jpg,training_gg (640).jpg,glioma_tumor,0,512,512,1.0,262144,16.89,23.47,31.69,24.81,029fc7f34433fc5df3399425380030e3
+data\raw\pituitary_tumor\training_p (477).jpg,training_p (477).jpg,pituitary_tumor,3,512,512,1.0,262144,32.25,52.08,41.57,65.6,ea1cbcaab205d163cfb0b5e6654fb690
+data\raw\meningioma_tumor\training_m3 (184).jpg,training_m3 (184).jpg,meningioma_tumor,1,512,512,1.0,262144,24.35,45.79,52.35,38.27,de0c4cdf4b1ff1602522dcce32f8ca96
+data\raw\meningioma_tumor\training_m2 (38).jpg,training_m2 (38).jpg,meningioma_tumor,1,512,512,1.0,262144,24.11,40.83,43.87,35.37,df5802e18a8e3fde3419baece00ba20d
+data\raw\no_tumor\training_image (14).jpg,training_image (14).jpg,no_tumor,2,630,630,1.0,396900,54.39,29.72,36.33,51.83,f4b4f54022e5d07d1cfecf6868492299
+data\raw\meningioma_tumor\testing_image(113).jpg,testing_image(113).jpg,meningioma_tumor,1,530,526,1.008,278780,33.38,87.82,76.74,302.47,18f6a0abfb7659f5dc8906581dc6dd80
+data\raw\meningioma_tumor\training_m2 (140).jpg,training_m2 (140).jpg,meningioma_tumor,1,512,512,1.0,262144,24.25,40.61,45.91,49.32,1bf0aeb3131345d2d69d9933acb34b10
+data\raw\no_tumor\training_image (27).jpg,training_image (27).jpg,no_tumor,2,442,442,1.0,195364,28.33,30.53,36.72,71.89,3c6fa0ae2ede310bc6dc2dd7a6fbbaa3
+data\raw\meningioma_tumor\training_m2 (58).jpg,training_m2 (58).jpg,meningioma_tumor,1,512,512,1.0,262144,30.1,58.37,54.17,58.33,75ffa7f6a01832876190a640afbbf824
+data\raw\meningioma_tumor\training_m3 (48).jpg,training_m3 (48).jpg,meningioma_tumor,1,512,512,1.0,262144,26.09,43.83,40.72,62.57,72add5b23db95cd3c8905814eb18b76c
+data\raw\pituitary_tumor\testing_image(37).jpg,testing_image(37).jpg,pituitary_tumor,3,201,210,0.957,42210,17.29,71.51,62.08,1597.47,37d9b2e8f32519fba8e67ef120bb343e
+data\raw\no_tumor\testing_image(91).jpg,testing_image(91).jpg,no_tumor,2,236,252,0.937,59472,10.42,29.1,42.05,909.67,f464a61c4db5e123cfa470cd5ab789c0
+data\raw\pituitary_tumor\training_p (406).jpg,training_p (406).jpg,pituitary_tumor,3,512,512,1.0,262144,36.62,47.15,32.93,85.58,9bd4e11777e8c2d1310f5bfa026f4034
+data\raw\meningioma_tumor\training_m3 (204).jpg,training_m3 (204).jpg,meningioma_tumor,1,512,512,1.0,262144,22.66,44.07,54.28,34.53,3cb17d6fe9ad584ea166942383d86c70
+data\raw\meningioma_tumor\training_m1(17).jpg,training_m1(17).jpg,meningioma_tumor,1,512,512,1.0,262144,21.51,33.13,44.85,90.17,33f5c1eb934abfe74dda7907fed0700d
+data\raw\glioma_tumor\training_gg (624).jpg,training_gg (624).jpg,glioma_tumor,0,512,512,1.0,262144,17.45,25.68,37.65,33.67,c15a084da48d1cb0174d8a1d5279a315
+data\raw\pituitary_tumor\training_p (501).jpg,training_p (501).jpg,pituitary_tumor,3,512,512,1.0,262144,32.71,42.17,36.62,57.13,e260558f049702cb5c62bcd22c1a4098
+data\raw\pituitary_tumor\training_p (732).jpg,training_p (732).jpg,pituitary_tumor,3,512,512,1.0,262144,29.72,50.24,44.57,69.3,53956fb936543060f9fe24c29671d30c
+data\raw\meningioma_tumor\training_m (11).jpg,training_m (11).jpg,meningioma_tumor,1,512,512,1.0,262144,23.41,39.75,49.79,51.05,c45db31730d2168878f43f5a4ea2538a
+data\raw\meningioma_tumor\training_m1(18).jpg,training_m1(18).jpg,meningioma_tumor,1,512,512,1.0,262144,20.0,30.22,40.91,67.78,7eb2ad5cc72684f84ca57f1d48a53056
+data\raw\glioma_tumor\training_gg (350).jpg,training_gg (350).jpg,glioma_tumor,0,512,512,1.0,262144,25.87,35.84,37.32,43.85,fccf309d0c14f21047544bb72b48b957
+data\raw\glioma_tumor\training_gg (708).jpg,training_gg (708).jpg,glioma_tumor,0,512,512,1.0,262144,25.62,43.56,44.81,56.02,5b20337632bc40ce45e95ca7301f1564
+data\raw\pituitary_tumor\training_p (122).jpg,training_p (122).jpg,pituitary_tumor,3,512,512,1.0,262144,30.39,58.66,44.15,52.51,8a6cd3ed5b21316c063843beca6502ec
+data\raw\pituitary_tumor\training_p (588).jpg,training_p (588).jpg,pituitary_tumor,3,512,512,1.0,262144,39.12,56.46,40.19,100.56,119f024387dea1e0cc7bbbe7d86a51ce
+data\raw\no_tumor\training_image (59).jpg,training_image (59).jpg,no_tumor,2,235,261,0.9,61335,14.68,85.11,60.18,406.22,d795de8b9314fe99576e961fd4859590
+data\raw\pituitary_tumor\training_p (640).jpg,training_p (640).jpg,pituitary_tumor,3,512,512,1.0,262144,25.4,37.15,43.66,104.6,bc3990c0e899038913fae805093a8e71
+data\raw\glioma_tumor\training_gg (802).jpg,training_gg (802).jpg,glioma_tumor,0,512,512,1.0,262144,26.76,39.89,42.48,53.46,783b2dcfc8a9d3b3c20f2ad8b1d8c946
+data\raw\glioma_tumor\training_gg (269).jpg,training_gg (269).jpg,glioma_tumor,0,512,512,1.0,262144,28.85,41.71,42.89,55.89,780d97c64a4f73879d4fa85c57373e3b
+data\raw\pituitary_tumor\training_p (54).jpg,training_p (54).jpg,pituitary_tumor,3,512,512,1.0,262144,33.1,45.87,36.77,93.87,499e94ee4fc729e7ccb379dc7ea80da7
+data\raw\pituitary_tumor\training_p (79).jpg,training_p (79).jpg,pituitary_tumor,3,512,512,1.0,262144,35.55,57.13,46.67,70.57,863c8c769deff8b39e585f3ffea7f655
+data\raw\pituitary_tumor\training_p (505).jpg,training_p (505).jpg,pituitary_tumor,3,512,512,1.0,262144,37.18,59.22,44.03,92.85,69d9ffd57d7fdbc68bc178f266ffdefc
+data\raw\meningioma_tumor\training_m (174).jpg,training_m (174).jpg,meningioma_tumor,1,512,512,1.0,262144,16.24,30.38,42.83,30.52,9c84bb5fa075f1615e9627d095e07622
+data\raw\glioma_tumor\training_gg (806).jpg,training_gg (806).jpg,glioma_tumor,0,512,512,1.0,262144,22.88,36.36,45.56,53.23,9f80e112fe6790a4f51c62b98692ad47
+data\raw\no_tumor\training_image (22).jpg,training_image (22).jpg,no_tumor,2,206,244,0.844,50264,6.88,53.97,30.12,1125.45,7f4d91f6e5c91dc0501e9d9562042f58
+data\raw\glioma_tumor\training_gg (32).jpg,training_gg (32).jpg,glioma_tumor,0,512,512,1.0,262144,18.69,29.67,41.37,23.8,12a55038d01c5a487278fdd7149396ac
+data\raw\pituitary_tumor\training_p (184).jpg,training_p (184).jpg,pituitary_tumor,3,512,512,1.0,262144,29.7,46.14,34.86,39.87,b6a897f99fd36cb39ac8641309c8a0a9
+data\raw\glioma_tumor\training_gg (690).jpg,training_gg (690).jpg,glioma_tumor,0,512,512,1.0,262144,23.39,34.3,42.94,73.15,a87e66728823bb120ee181242e7a1de5
+data\raw\glioma_tumor\training_gg (616).jpg,training_gg (616).jpg,glioma_tumor,0,512,512,1.0,262144,20.63,26.34,34.76,53.52,287db10f0aa7a03c2f3d3ef358209230
+data\raw\pituitary_tumor\training_p (436).jpg,training_p (436).jpg,pituitary_tumor,3,512,512,1.0,262144,36.2,51.17,31.87,91.23,d52ddc6182d9646b406d3dbdf913eb8f
+data\raw\meningioma_tumor\training_m2 (28).jpg,training_m2 (28).jpg,meningioma_tumor,1,512,512,1.0,262144,18.59,38.1,53.56,21.23,2603a4f8653725a0797f5914002cd925
+data\raw\pituitary_tumor\training_p (754).jpg,training_p (754).jpg,pituitary_tumor,3,512,512,1.0,262144,28.57,33.99,28.82,40.04,a818b6c86278b6f521d9dd40953626f9
+data\raw\glioma_tumor\training_gg (35).jpg,training_gg (35).jpg,glioma_tumor,0,512,512,1.0,262144,21.66,35.97,43.67,40.87,e84dbdb6fbb8ebd0c48408921b499483
+data\raw\meningioma_tumor\training_m3 (237).jpg,training_m3 (237).jpg,meningioma_tumor,1,512,512,1.0,262144,25.97,51.67,54.24,44.21,9db4212fbefc0cfbbc9b8fbaffb6c62b
+data\raw\pituitary_tumor\testing_image(63).jpg,testing_image(63).jpg,pituitary_tumor,3,202,202,1.0,40804,14.33,69.58,50.3,4785.07,ca3ad7e6cd4825a0d5cff84d11757bed
+data\raw\glioma_tumor\training_gg (667).jpg,training_gg (667).jpg,glioma_tumor,0,512,512,1.0,262144,17.14,22.76,33.02,52.0,832ef1493b26d683739e845399a424a0
+data\raw\glioma_tumor\training_gg (713).jpg,training_gg (713).jpg,glioma_tumor,0,512,512,1.0,262144,25.76,41.02,45.95,60.64,b96cf0c953e1d7b25a7d0f0fbe1a7caa
+data\raw\pituitary_tumor\training_p (512).jpg,training_p (512).jpg,pituitary_tumor,3,512,512,1.0,262144,35.63,56.5,45.44,97.51,afd66b044a883a9d979bdcdcbc597071
+data\raw\meningioma_tumor\training_m1(11).jpg,training_m1(11).jpg,meningioma_tumor,1,226,212,1.066,47912,10.54,103.13,71.0,1137.15,03290da01cde8965f005e1a85584699d
+data\raw\meningioma_tumor\training_m3 (160).jpg,training_m3 (160).jpg,meningioma_tumor,1,512,512,1.0,262144,28.37,48.23,44.6,59.0,666fcd902fe7bfe3cc6673ba09c2760d
+data\raw\no_tumor\training_image(301).jpg,training_image(301).jpg,no_tumor,2,244,274,0.891,66856,21.25,85.94,63.56,541.18,2d3b04b209470ffb0f5ffb3850808f21
+data\raw\no_tumor\training_image(51).jpg,training_image(51).jpg,no_tumor,2,233,226,1.031,52658,14.64,77.57,81.59,576.35,cc712e0106aa07953906b25f2e7a5598
+data\raw\meningioma_tumor\training_m1(98).jpg,training_m1(98).jpg,meningioma_tumor,1,455,500,0.91,227500,25.67,75.41,63.27,110.99,af3a4cf5d54bd454b733bfe3d2177b4a
+data\raw\pituitary_tumor\training_p (443).jpg,training_p (443).jpg,pituitary_tumor,3,512,512,1.0,262144,29.04,53.63,34.81,43.83,3152dac756505391188bf6cfb2bbda07
+data\raw\meningioma_tumor\testing_image(63).jpg,testing_image(63).jpg,meningioma_tumor,1,273,326,0.837,88998,26.14,100.95,76.28,1173.27,96ac987bd37f7db4655ce8c3db0fbed1
+data\raw\no_tumor\training_image(197).jpg,training_image(197).jpg,no_tumor,2,228,221,1.032,50388,9.94,38.05,42.94,701.78,d653837f905a50a7ce18b911dfb0c5c0
+data\raw\pituitary_tumor\training_p (414).jpg,training_p (414).jpg,pituitary_tumor,3,512,512,1.0,262144,27.3,54.21,40.6,42.49,e64cc84d54d3fa69b766719820b93661
+data\raw\meningioma_tumor\training_m2 (65).jpg,training_m2 (65).jpg,meningioma_tumor,1,512,512,1.0,262144,26.4,51.59,49.54,52.83,5dfb3ace8add4d989e23e11888734d4e
+data\raw\meningioma_tumor\training_m (78).jpg,training_m (78).jpg,meningioma_tumor,1,512,512,1.0,262144,25.28,38.06,41.9,67.37,e0b0221b6ce51300e5e6ffa252ea47a1
+data\raw\meningioma_tumor\training_m2 (40).jpg,training_m2 (40).jpg,meningioma_tumor,1,512,512,1.0,262144,25.81,34.01,38.56,64.0,19599b466c2de0fcf3c3308e6cbba9de
+data\raw\glioma_tumor\training_gg (461).jpg,training_gg (461).jpg,glioma_tumor,0,512,512,1.0,262144,28.09,52.35,49.96,45.15,58913adc76c97cd2aa35fff9311234e8
+data\raw\meningioma_tumor\training_m1(39).jpg,training_m1(39).jpg,meningioma_tumor,1,512,512,1.0,262144,23.4,32.96,41.75,55.66,7109ca8a820f624319408ed8514c2a22
+data\raw\meningioma_tumor\training_m3 (162).jpg,training_m3 (162).jpg,meningioma_tumor,1,512,512,1.0,262144,28.88,43.01,40.95,65.76,8c0c676ec7c52cc4b286f724175a9b2a
+data\raw\glioma_tumor\training_gg (83).jpg,training_gg (83).jpg,glioma_tumor,0,512,512,1.0,262144,32.95,42.37,36.85,93.54,c7286161ab4d3224a45383e0edac715a
+data\raw\no_tumor\testing_image(20).jpg,testing_image(20).jpg,no_tumor,2,212,236,0.898,50032,13.71,64.32,42.28,606.73,87e3305713604aecf1a86891fc8929cd
+data\raw\glioma_tumor\training_gg (641).jpg,training_gg (641).jpg,glioma_tumor,0,512,512,1.0,262144,16.9,23.24,32.07,23.33,5a5bd45bee7bf9c0f3d7015817aa4e37
+data\raw\meningioma_tumor\training_m (122).jpg,training_m (122).jpg,meningioma_tumor,1,512,512,1.0,262144,18.5,28.43,40.43,26.09,cdde69fa61cd3e026a90905c776f603e
+data\raw\meningioma_tumor\training_m3 (2).jpg,training_m3 (2).jpg,meningioma_tumor,1,512,512,1.0,262144,22.28,34.7,46.41,38.13,c818203982e7dcd95e7eb73d574ac730
+data\raw\pituitary_tumor\training_p (41).jpg,training_p (41).jpg,pituitary_tumor,3,512,512,1.0,262144,37.35,61.51,46.46,89.75,fa728d5e8ffc27d33344ffce5a9770c6
+data\raw\glioma_tumor\testing_image(86).jpg,testing_image(86).jpg,glioma_tumor,0,326,405,0.805,132030,25.53,59.35,38.65,204.44,9987caf29bb299a8f1b61a9da9f9e085
+data\raw\meningioma_tumor\training_m3 (62).jpg,training_m3 (62).jpg,meningioma_tumor,1,512,512,1.0,262144,26.97,53.13,46.96,38.63,b6a7e993dcb08274d4354db087b5948f
+data\raw\meningioma_tumor\training_m1(158).jpg,training_m1(158).jpg,meningioma_tumor,1,232,261,0.889,60552,22.8,91.71,53.85,1336.26,cce8d8d1de1ffaa316eda604bcfe0079
+data\raw\glioma_tumor\training_gg (517).jpg,training_gg (517).jpg,glioma_tumor,0,512,512,1.0,262144,21.75,23.13,29.83,59.26,4ddbd0c4c90c43796f0febf09811e67e
+data\raw\meningioma_tumor\training_m2 (100).jpg,training_m2 (100).jpg,meningioma_tumor,1,512,512,1.0,262144,22.34,35.12,44.89,49.11,42a144c748c7fd548738aef2f0a9c98b
+data\raw\pituitary_tumor\training_p (388).jpg,training_p (388).jpg,pituitary_tumor,3,512,512,1.0,262144,32.77,50.83,44.43,72.23,15cf7ebeefbbb7e57abf759acc3af7ef
+data\raw\glioma_tumor\training_gg (437).jpg,training_gg (437).jpg,glioma_tumor,0,512,512,1.0,262144,24.61,40.09,48.32,96.32,c89637945175415186a0365d129d4414
+data\raw\meningioma_tumor\training_m1(104).jpg,training_m1(104).jpg,meningioma_tumor,1,441,427,1.033,188307,31.67,63.03,50.81,545.8,41fc6c383287f88162c8196ae30cc6fc
+data\raw\glioma_tumor\training_gg (631).jpg,training_gg (631).jpg,glioma_tumor,0,512,512,1.0,262144,22.37,26.97,35.28,54.41,07864527de7a57cc5dc5e1eac7b0ba0f
+data\raw\meningioma_tumor\testing_image(18).jpg,testing_image(18).jpg,meningioma_tumor,1,630,423,1.489,266490,50.15,72.48,64.3,161.78,2031c3c22938cfb34f0d30579c076baf
+data\raw\no_tumor\testing_image(5).jpg,testing_image(5).jpg,no_tumor,2,236,280,0.843,66080,15.98,37.02,42.12,438.91,91d6d24a1a59351d45c0080930062574
+data\raw\glioma_tumor\training_gg (71).jpg,training_gg (71).jpg,glioma_tumor,0,512,512,1.0,262144,31.35,50.9,46.98,53.34,064a34fab128d906b62a6405955fdce7
+data\raw\meningioma_tumor\testing_image(30).jpg,testing_image(30).jpg,meningioma_tumor,1,204,249,0.819,50796,12.2,93.32,69.87,427.3,fd981cc35eafec2277740fe730c5c58b
+data\raw\glioma_tumor\training_gg (507).jpg,training_gg (507).jpg,glioma_tumor,0,512,512,1.0,262144,19.45,30.89,42.32,24.22,82cd7ba6cb21b0cb61e5337a671b1f9c
+data\raw\pituitary_tumor\training_p (593).jpg,training_p (593).jpg,pituitary_tumor,3,512,512,1.0,262144,30.63,51.99,42.26,52.24,78b19f8ea147029725212a8ebd01630b
+data\raw\no_tumor\training_image(94).jpg,training_image(94).jpg,no_tumor,2,235,244,0.963,57340,16.95,79.76,41.72,505.67,7d155aa15e05feb5fd008361b3b38db2
+data\raw\no_tumor\training_image(168).jpg,training_image(168).jpg,no_tumor,2,420,280,1.5,117600,16.38,39.42,52.85,186.57,fe2231f523d6d1cabd4670f11b829773
+data\raw\pituitary_tumor\training_p (202).jpg,training_p (202).jpg,pituitary_tumor,3,512,512,1.0,262144,31.07,62.37,49.59,59.64,08422ec00b1f2e307ef241a22759b882
+data\raw\pituitary_tumor\training_p (665).jpg,training_p (665).jpg,pituitary_tumor,3,512,512,1.0,262144,32.72,46.35,38.55,74.02,6b5b8df1a76e61e38dccfbd03d5bbc8e
+data\raw\glioma_tumor\training_gg (449).jpg,training_gg (449).jpg,glioma_tumor,0,512,512,1.0,262144,22.51,36.41,43.41,57.06,c486ab53f0c967db35a72452749ab16f
+data\raw\no_tumor\training_image(218).jpg,training_image(218).jpg,no_tumor,2,853,480,1.777,409440,39.19,12.98,30.34,59.89,d5f0f355c306acc7712226cd99f60ef6
+data\raw\glioma_tumor\training_gg (567).jpg,training_gg (567).jpg,glioma_tumor,0,512,512,1.0,262144,20.15,26.99,33.15,63.32,3928b88e0c647d8bbeab01167f40606a
+data\raw\glioma_tumor\training_gg (226).jpg,training_gg (226).jpg,glioma_tumor,0,512,512,1.0,262144,31.96,57.6,47.28,52.38,b38dfab85ba628962aee281ff795470b
+data\raw\glioma_tumor\training_gg (13).jpg,training_gg (13).jpg,glioma_tumor,0,512,512,1.0,262144,21.4,33.35,41.47,74.34,d872a5b30e91e6462308433c503a1951
+data\raw\pituitary_tumor\training_p (644).jpg,training_p (644).jpg,pituitary_tumor,3,512,512,1.0,262144,29.78,37.41,37.17,68.05,f7761ff0fe6aa7b47a1d8632cd6c5f26
+data\raw\pituitary_tumor\training_p (399).jpg,training_p (399).jpg,pituitary_tumor,3,512,512,1.0,262144,35.79,54.17,43.68,76.88,730dd7284e9cefb4962ecf1db16641e0
+data\raw\no_tumor\training_image(129).jpg,training_image(129).jpg,no_tumor,2,387,469,0.825,181503,40.73,71.88,62.39,164.97,ae63ee4a97edd8df5b4dc6d6f2e520f6
+data\raw\meningioma_tumor\training_m1(107).jpg,training_m1(107).jpg,meningioma_tumor,1,507,605,0.838,306735,39.83,85.9,90.85,174.05,92f98ce99049e0f45368950818983be9
+data\raw\glioma_tumor\training_gg (187).jpg,training_gg (187).jpg,glioma_tumor,0,512,512,1.0,262144,27.6,44.08,41.3,44.07,2fb4f2967acbc4ea8f25aa2a9d21c50a
+data\raw\pituitary_tumor\training_p (510).jpg,training_p (510).jpg,pituitary_tumor,3,512,512,1.0,262144,36.59,58.35,47.05,105.31,7a9d69e707f7c1f82bbfb4d7c6468423
+data\raw\meningioma_tumor\training_m1(64).jpg,training_m1(64).jpg,meningioma_tumor,1,512,512,1.0,262144,23.02,31.26,45.5,82.65,108274016227cb289345224be2262e69
+data\raw\glioma_tumor\testing_image(91).jpg,testing_image(91).jpg,glioma_tumor,0,531,577,0.92,306387,48.37,58.59,73.57,331.66,1f9543faf18da8823acb1540c7210428
+data\raw\glioma_tumor\training_gg (747).jpg,training_gg (747).jpg,glioma_tumor,0,512,512,1.0,262144,20.67,25.31,31.95,49.54,40008d1aee2a38d8f36ee0e3b2a98be3
+data\raw\meningioma_tumor\testing_image(76).jpg,testing_image(76).jpg,meningioma_tumor,1,215,220,0.977,47300,11.88,62.04,53.35,407.38,045daebe7b27c1e9f232488729611e94
+data\raw\pituitary_tumor\training_p (598).jpg,training_p (598).jpg,pituitary_tumor,3,512,512,1.0,262144,31.3,37.28,38.38,108.78,d09c1bab08bc4c26c15b48160c065db9
+data\raw\glioma_tumor\training_gg (104).jpg,training_gg (104).jpg,glioma_tumor,0,512,512,1.0,262144,26.1,49.03,47.26,40.2,e0899a5f9770bbf1afb1d32f5ed7bd48
+data\raw\glioma_tumor\training_gg (590).jpg,training_gg (590).jpg,glioma_tumor,0,512,512,1.0,262144,15.17,19.38,31.13,47.32,6e65cc2de9ad393d81c08ef3ba924520
+data\raw\glioma_tumor\training_gg (618).jpg,training_gg (618).jpg,glioma_tumor,0,512,512,1.0,262144,21.27,26.06,36.73,53.12,7bbca27455825aa34a7ddaf8e4a6adfc
+data\raw\pituitary_tumor\training_p (520).jpg,training_p (520).jpg,pituitary_tumor,3,512,512,1.0,262144,32.48,48.25,40.99,57.33,1006f5b3a9f89a00455f4ddb31e28102
+data\raw\glioma_tumor\training_gg (734).jpg,training_gg (734).jpg,glioma_tumor,0,512,512,1.0,262144,22.16,27.86,41.09,67.96,3f83baa0fda78bfd057fc6bba17284d0
+data\raw\glioma_tumor\training_gg (15).jpg,training_gg (15).jpg,glioma_tumor,0,512,512,1.0,262144,19.7,28.38,39.97,81.56,163ae36473317d654c8ea743cfe3b9c4
+data\raw\pituitary_tumor\training_p (733).jpg,training_p (733).jpg,pituitary_tumor,3,512,512,1.0,262144,25.81,28.59,35.64,73.53,db7a363aa91dfc89d516eee5e8ac67d1
+data\raw\pituitary_tumor\training_p (356).jpg,training_p (356).jpg,pituitary_tumor,3,512,512,1.0,262144,33.21,47.01,38.34,65.0,ef85b5d097e17f37e09b1e25121137c3
+data\raw\meningioma_tumor\testing_image(4).jpg,testing_image(4).jpg,meningioma_tumor,1,369,398,0.927,146862,28.63,73.14,70.68,160.97,ac5559fec237f9622fc183a6b4ac7ba2
+data\raw\no_tumor\training_image(149).jpg,training_image(149).jpg,no_tumor,2,236,236,1.0,55696,17.1,75.12,65.84,1319.53,1f23dacaac228811e45af94981be031c
+data\raw\glioma_tumor\training_gg (64).jpg,training_gg (64).jpg,glioma_tumor,0,512,512,1.0,262144,35.72,48.09,38.0,100.05,5774cc315d982cd98931fb14f70bd539
+data\raw\meningioma_tumor\training_m (115).jpg,training_m (115).jpg,meningioma_tumor,1,512,512,1.0,262144,22.79,32.6,43.35,61.34,11718ee3cad9b92f181754e9417b9980
+data\raw\meningioma_tumor\training_m2 (75).jpg,training_m2 (75).jpg,meningioma_tumor,1,512,512,1.0,262144,27.62,41.29,39.26,60.76,34d31161e9c4662a01ceac0124913e79
+data\raw\glioma_tumor\testing_image(73).jpg,testing_image(73).jpg,glioma_tumor,0,512,512,1.0,262144,29.14,35.26,44.75,46.95,3895bbdc5d78dbe618c83d8115abc592
+data\raw\glioma_tumor\training_gg (821).jpg,training_gg (821).jpg,glioma_tumor,0,512,512,1.0,262144,15.99,24.99,32.37,24.0,c142e1debace031d1de954e864d031cf
+data\raw\glioma_tumor\training_gg (513).jpg,training_gg (513).jpg,glioma_tumor,0,512,512,1.0,262144,19.4,24.99,31.85,48.22,f2fe518457f595e55c1c554fa9160630
+data\raw\pituitary_tumor\training_p (804).jpg,training_p (804).jpg,pituitary_tumor,3,512,512,1.0,262144,31.33,43.96,41.27,69.58,423bdb16af75544f71b1d14071aab817
+data\raw\glioma_tumor\training_gg (252).jpg,training_gg (252).jpg,glioma_tumor,0,512,512,1.0,262144,27.41,42.42,39.53,56.18,8e76895ee334c064c1baea0007043e7b
+data\raw\pituitary_tumor\training_p (232).jpg,training_p (232).jpg,pituitary_tumor,3,512,512,1.0,262144,29.78,59.9,49.49,53.07,28944eef43b770e024233f887eb22cdd
+data\raw\glioma_tumor\training_gg (100).jpg,training_gg (100).jpg,glioma_tumor,0,512,512,1.0,262144,27.03,46.06,47.04,51.92,ac1853404f3a7c03ac70bf9f006af9e7
+data\raw\no_tumor\training_image(179).jpg,training_image(179).jpg,no_tumor,2,626,686,0.913,429436,73.32,62.55,49.22,47.08,308325bd0f07bf1798a46cb6ba1e9f6f
+data\raw\pituitary_tumor\training_p (26).jpg,training_p (26).jpg,pituitary_tumor,3,512,512,1.0,262144,35.2,55.57,40.34,84.59,36cfb3430d88d059f78823c4668f150d
+data\raw\glioma_tumor\testing_image(21).jpg,testing_image(21).jpg,glioma_tumor,0,544,564,0.965,306816,47.16,65.06,69.73,196.65,557074c0f2215c6453fd61461aafc59a
+data\raw\pituitary_tumor\training_p (48).jpg,training_p (48).jpg,pituitary_tumor,3,512,512,1.0,262144,34.68,53.44,42.02,96.55,d3c5f5993859f00f448f6f8e02b68865
+data\raw\glioma_tumor\testing_image(56).jpg,testing_image(56).jpg,glioma_tumor,0,197,229,0.86,45113,11.27,71.13,81.94,1228.97,0ff71767b2d66e1ab73440746969b15b
+data\raw\meningioma_tumor\training_m (192).jpg,training_m (192).jpg,meningioma_tumor,1,512,512,1.0,262144,19.6,27.78,38.04,69.12,eb5571c9796744fd99cfa0a37a1e86b3
+data\raw\glioma_tumor\training_gg (138).jpg,training_gg (138).jpg,glioma_tumor,0,512,512,1.0,262144,25.01,42.69,45.48,70.27,c1c065434dc46920fa741fb8b2607be3
+data\raw\pituitary_tumor\training_p (701).jpg,training_p (701).jpg,pituitary_tumor,3,512,512,1.0,262144,27.89,41.05,47.42,105.1,a865024f77922f56c14ca307e147540e
+data\raw\pituitary_tumor\training_p (469).jpg,training_p (469).jpg,pituitary_tumor,3,512,512,1.0,262144,31.69,44.8,37.6,59.82,bc7736eeeb92f79e9b74958be05424ac
+data\raw\pituitary_tumor\training_p (303).jpg,training_p (303).jpg,pituitary_tumor,3,512,512,1.0,262144,29.88,58.23,44.34,53.58,690f2c41084c1b8727b1c51812153004
+data\raw\meningioma_tumor\training_m3 (74).jpg,training_m3 (74).jpg,meningioma_tumor,1,512,512,1.0,262144,25.26,39.75,42.59,72.16,ccf9fabb3f29af146e35bbdc587c55fc
+data\raw\pituitary_tumor\training_p (787).jpg,training_p (787).jpg,pituitary_tumor,3,512,512,1.0,262144,31.11,48.46,42.4,71.08,f988eacc4d1f3b1a39b60090af7ec0a1
+data\raw\glioma_tumor\training_gg (627).jpg,training_gg (627).jpg,glioma_tumor,0,512,512,1.0,262144,21.14,28.71,38.62,53.74,5f4673a9e15e1db50e185a715d18fc68
+data\raw\glioma_tumor\training_gg (367).jpg,training_gg (367).jpg,glioma_tumor,0,512,512,1.0,262144,27.41,44.4,41.85,43.14,8cc999943389df1e9d3771e93dbd718e
+data\raw\glioma_tumor\training_gg (504).jpg,training_gg (504).jpg,glioma_tumor,0,512,512,1.0,262144,21.0,31.44,39.77,38.02,5604069e39088506844e3ff66dd75fde
+data\raw\meningioma_tumor\training_m1(170).jpg,training_m1(170).jpg,meningioma_tumor,1,341,395,0.863,134695,25.32,85.01,51.16,68.97,333ca271271562e025951545e76a8b0b
+data\raw\no_tumor\training_image (47).jpg,training_image (47).jpg,no_tumor,2,235,229,1.026,53815,11.46,32.03,38.58,626.53,ff0139122892f719f48b23fb732bed05
+data\raw\glioma_tumor\training_gg (228).jpg,training_gg (228).jpg,glioma_tumor,0,512,512,1.0,262144,33.87,61.49,47.39,68.46,26213f1fd7f5163ea7c55fecadf34a8c
+data\raw\meningioma_tumor\testing_image(66).jpg,testing_image(66).jpg,meningioma_tumor,1,305,337,0.905,102785,18.1,61.73,53.59,168.3,eb40381e0195cb12ab74038cb49d2a00
+data\raw\pituitary_tumor\training_p (236).jpg,training_p (236).jpg,pituitary_tumor,3,512,512,1.0,262144,28.36,54.7,44.88,46.54,70a2740360e80ede53783e7c66995956
+data\raw\glioma_tumor\testing_image(20).jpg,testing_image(20).jpg,glioma_tumor,0,248,274,0.905,67952,18.78,94.73,74.68,965.13,a6a0f55608284566ed843bcd87c94c29
+data\raw\meningioma_tumor\training_m1(129).jpg,training_m1(129).jpg,meningioma_tumor,1,318,354,0.898,112572,14.56,81.04,50.87,172.38,d134cc2aacfba636c30a9fa60b6e7861
+data\raw\glioma_tumor\testing_image(4).jpg,testing_image(4).jpg,glioma_tumor,0,425,349,1.218,148325,22.02,41.49,59.24,245.74,5573639c1bd424d80ff93cc6da9f3e16
+data\raw\meningioma_tumor\training_m (124).jpg,training_m (124).jpg,meningioma_tumor,1,512,512,1.0,262144,21.27,27.73,40.55,51.25,182536b9cabf118b26e2b99c8c705610
+data\raw\no_tumor\training_image (29).jpg,training_image (29).jpg,no_tumor,2,225,225,1.0,50625,7.13,56.35,50.44,1096.64,ce0edd8064f376cf8360d63c4d9ebdd8
+data\raw\meningioma_tumor\training_m3 (9).jpg,training_m3 (9).jpg,meningioma_tumor,1,512,512,1.0,262144,25.9,46.95,52.88,48.72,fac74e84c147517a750eaeff6c36f3f8
+data\raw\glioma_tumor\training_gg (749).jpg,training_gg (749).jpg,glioma_tumor,0,512,512,1.0,262144,19.66,25.82,32.98,40.07,aee3e3efc085f8b3c085af81cf86017b
+data\raw\glioma_tumor\training_gg (406).jpg,training_gg (406).jpg,glioma_tumor,0,512,512,1.0,262144,20.46,25.45,32.79,43.39,6335b8369bdf766bb58f8ecca918ff8d
+data\raw\no_tumor\training_image(138).jpg,training_image(138).jpg,no_tumor,2,350,350,1.0,122500,27.65,39.93,56.59,1067.13,25faac854458973ea07975165f80c035
+data\raw\meningioma_tumor\testing_image(106).jpg,testing_image(106).jpg,meningioma_tumor,1,528,581,0.909,306768,41.12,87.78,77.32,56.15,a5fbd03f56c3e172fbcc79d574387447
+data\raw\meningioma_tumor\training_m (144).jpg,training_m (144).jpg,meningioma_tumor,1,512,512,1.0,262144,15.83,28.26,48.53,25.36,0cf318d27bbb5ccf29c0b58cfba87762
+data\raw\meningioma_tumor\testing_image(58).jpg,testing_image(58).jpg,meningioma_tumor,1,554,554,1.0,306916,33.59,65.1,52.43,23.58,5a38672458dcff92ab3d416cf9dd4982
+data\raw\pituitary_tumor\training_p (404).jpg,training_p (404).jpg,pituitary_tumor,3,512,512,1.0,262144,36.62,54.6,37.48,102.61,cf5e712a668639af2353340b3689dccc
+data\raw\no_tumor\testing_image(40).jpg,testing_image(40).jpg,no_tumor,2,236,300,0.787,70800,25.49,105.71,75.05,3791.38,833431d3c05dd4975af7ca2b362dfc84
+data\raw\pituitary_tumor\training_p (78).jpg,training_p (78).jpg,pituitary_tumor,3,512,512,1.0,262144,34.03,52.0,43.06,61.86,4f53785238dfbf4c10a189d7227b2161
+data\raw\pituitary_tumor\training_p (363).jpg,training_p (363).jpg,pituitary_tumor,3,512,512,1.0,262144,35.31,50.41,36.15,66.75,f419373a2cc62f511dd1c24930f2959c
+data\raw\meningioma_tumor\training_m2 (134).jpg,training_m2 (134).jpg,meningioma_tumor,1,512,512,1.0,262144,28.24,46.04,49.77,78.18,1a49296644d24759962e069c61677000
+data\raw\glioma_tumor\training_gg (793).jpg,training_gg (793).jpg,glioma_tumor,0,512,512,1.0,262144,24.87,32.73,35.88,47.82,9f317cc1472c1609146cc4445509c2f5
+data\raw\glioma_tumor\training_gg (674).jpg,training_gg (674).jpg,glioma_tumor,0,512,512,1.0,262144,26.17,33.34,36.84,62.81,602d29f7b579e2f30a63124c2feb7ad6
+data\raw\no_tumor\training_image(100).jpg,training_image(100).jpg,no_tumor,2,236,239,0.987,56404,19.61,103.05,57.98,2002.44,ed2f2ce4b1d6cc91bf94e65ec0d56044
+data\raw\no_tumor\testing_image(80).jpg,testing_image(80).jpg,no_tumor,2,236,243,0.971,57348,12.81,41.14,56.04,1146.43,46187030cd69d096f561e16f2b53752e
+data\raw\glioma_tumor\training_gg (648).jpg,training_gg (648).jpg,glioma_tumor,0,512,512,1.0,262144,26.91,32.39,45.82,124.89,3d4a56cd2b3a23e7e385373ab9979c94
+data\raw\glioma_tumor\training_gg (140).jpg,training_gg (140).jpg,glioma_tumor,0,512,512,1.0,262144,24.74,39.83,44.07,57.52,1cb3c7164f45e71a7b872534ea039d4c
+data\raw\pituitary_tumor\training_p (126).jpg,training_p (126).jpg,pituitary_tumor,3,685,681,1.006,466485,81.4,74.5,59.6,578.84,5ee9cff6443e7ccdd96792a8fc985aa4
+data\raw\meningioma_tumor\training_m3 (128).jpg,training_m3 (128).jpg,meningioma_tumor,1,512,512,1.0,262144,17.77,22.55,30.87,24.65,100f5780e9c77a7d944c6f5daf0f9f40
+data\raw\meningioma_tumor\training_m (58).jpg,training_m (58).jpg,meningioma_tumor,1,512,512,1.0,262144,30.04,45.45,48.12,95.21,7e7a8f7c30b2ffcd8de6beeafcd67c88
+data\raw\pituitary_tumor\training_p (450).jpg,training_p (450).jpg,pituitary_tumor,3,512,512,1.0,262144,34.81,49.56,38.62,75.83,30fe81c2268b8bbf2bd1bd72e156443b
+data\raw\pituitary_tumor\training_p (742).jpg,training_p (742).jpg,pituitary_tumor,3,512,512,1.0,262144,33.93,46.93,35.24,63.25,684f3a8c6a38c754af74fe7d91396131
+data\raw\pituitary_tumor\training_p (570).jpg,training_p (570).jpg,pituitary_tumor,3,512,512,1.0,262144,28.92,43.36,48.25,83.63,ea8bd10492e003137e816400c2aeceb1
+data\raw\no_tumor\training_3.jpg,training_3.jpg,no_tumor,2,605,613,0.987,370865,40.7,55.21,46.06,16.78,7be661c7ec1d3c648894b51bb7ffdf3e
+data\raw\pituitary_tumor\training_p (539).jpg,training_p (539).jpg,pituitary_tumor,3,512,512,1.0,262144,28.6,34.6,37.21,81.01,643cea3376f20f7bce463065ab243179
+data\raw\glioma_tumor\training_gg (386).jpg,training_gg (386).jpg,glioma_tumor,0,512,512,1.0,262144,24.88,38.73,44.62,64.98,192a1a2eb78ba656adb205dfd475359b
+data\raw\glioma_tumor\training_gg (227).jpg,training_gg (227).jpg,glioma_tumor,0,512,512,1.0,262144,31.5,56.59,44.52,51.65,bf82352f5b0367cde6e7e7ab4e77c060
+data\raw\meningioma_tumor\training_m3 (23).jpg,training_m3 (23).jpg,meningioma_tumor,1,512,512,1.0,262144,31.74,48.58,39.83,68.63,aa560d32693ec5bb2f88ef204f8fc617
+data\raw\meningioma_tumor\training_m3 (38).jpg,training_m3 (38).jpg,meningioma_tumor,1,512,512,1.0,262144,26.07,48.57,50.82,32.83,441e0a989c0581bcbca1f5a8353d7f1f
+data\raw\pituitary_tumor\training_p (708).jpg,training_p (708).jpg,pituitary_tumor,3,512,512,1.0,262144,29.96,41.62,38.06,65.43,7f36911adbf775aa48c8c36a15a416a2
+data\raw\pituitary_tumor\training_p (119).jpg,training_p (119).jpg,pituitary_tumor,3,512,512,1.0,262144,34.02,68.63,50.58,64.99,43de62a9201b7c1dc3d70651193f6348
+data\raw\glioma_tumor\training_gg (375).jpg,training_gg (375).jpg,glioma_tumor,0,512,512,1.0,262144,25.34,32.63,35.5,50.57,5a978c681ac0846ef3cc63e4662e1ec5
+data\raw\glioma_tumor\training_gg (664).jpg,training_gg (664).jpg,glioma_tumor,0,512,512,1.0,262144,19.39,23.82,34.05,50.05,f41a42f3c4becbc9eea8ce4f3f215f8b
+data\raw\glioma_tumor\training_gg (678).jpg,training_gg (678).jpg,glioma_tumor,0,512,512,1.0,262144,28.42,39.26,40.73,71.41,7dc89903ff78f8b10100b529a87c4690
+data\raw\glioma_tumor\training_gg (675).jpg,training_gg (675).jpg,glioma_tumor,0,512,512,1.0,262144,27.33,39.1,41.98,67.4,e6edc157c3d4e66546c769b031f08738
+data\raw\glioma_tumor\training_gg (496).jpg,training_gg (496).jpg,glioma_tumor,0,512,512,1.0,262144,15.93,26.2,39.22,25.55,806f2ab14da83093e9c49069a3bfe611
+data\raw\meningioma_tumor\training_m1(96).jpg,training_m1(96).jpg,meningioma_tumor,1,530,526,1.008,278780,24.02,87.82,76.74,302.47,0cea67355ed9fd0c9bd1c8db412fe71f
+data\raw\pituitary_tumor\training_p (467).jpg,training_p (467).jpg,pituitary_tumor,3,512,512,1.0,262144,35.91,44.5,36.19,76.4,8265e7d7aae4663d22ba93651d32f4bb
+data\raw\meningioma_tumor\training_m2 (130).jpg,training_m2 (130).jpg,meningioma_tumor,1,512,512,1.0,262144,33.37,54.82,50.01,85.33,6a69837c5f3d7e5907bb78b9e0a1f400
+data\raw\meningioma_tumor\training_m (139).jpg,training_m (139).jpg,meningioma_tumor,1,512,512,1.0,262144,21.86,33.62,45.1,52.18,dd9a4ad4080bd6a959008b4adfb2028f
+data\raw\glioma_tumor\training_gg (312).jpg,training_gg (312).jpg,glioma_tumor,0,512,512,1.0,262144,23.17,31.94,36.92,49.46,0ad3cea0fcc79d7584ed9a7ab8728980
+data\raw\pituitary_tumor\training_p (133).jpg,training_p (133).jpg,pituitary_tumor,3,1365,1365,1.0,1863225,246.9,102.33,60.43,579.71,3ffee433f297021ef2f8e89596a14a74
+data\raw\glioma_tumor\training_gg (738).jpg,training_gg (738).jpg,glioma_tumor,0,512,512,1.0,262144,19.41,25.4,38.62,50.48,443befb2d0db95584d40fcb64084ee2d
+data\raw\meningioma_tumor\training_m3 (69).jpg,training_m3 (69).jpg,meningioma_tumor,1,512,512,1.0,262144,20.23,36.61,48.13,30.93,6cb6d06aaf462d15c18bdf5f992b077a
+data\raw\glioma_tumor\training_gg (235).jpg,training_gg (235).jpg,glioma_tumor,0,512,512,1.0,262144,31.02,51.3,40.95,62.98,e2922cf2dd5a93ac7c30eab97770c94e
+data\raw\pituitary_tumor\testing_image(27).jpg,testing_image(27).jpg,pituitary_tumor,3,1358,1322,1.027,1795276,261.27,102.25,59.74,351.06,1e71144f7671f7060810a7a020c8781a
+data\raw\pituitary_tumor\training_p (554).jpg,training_p (554).jpg,pituitary_tumor,3,512,512,1.0,262144,24.43,36.71,44.81,70.55,74fe4ad86e500461b379c94a05be0c9c
+data\raw\meningioma_tumor\training_m1(51).jpg,training_m1(51).jpg,meningioma_tumor,1,512,512,1.0,262144,27.39,36.22,44.04,91.38,bc6c9b56f9f33272a14e3608816262e8
+data\raw\meningioma_tumor\training_m1(188).jpg,training_m1(188).jpg,meningioma_tumor,1,480,480,1.0,230400,32.96,115.46,58.65,118.91,414159e7f2f9959e3d57abe139c9e5c3
+data\raw\glioma_tumor\training_gg (195).jpg,training_gg (195).jpg,glioma_tumor,0,512,512,1.0,262144,23.46,34.95,40.95,41.74,f4cd0126fe8f324d15f135f81f5ff2ec
+data\raw\glioma_tumor\training_gg (661).jpg,training_gg (661).jpg,glioma_tumor,0,512,512,1.0,262144,18.76,22.25,33.8,42.63,2f3eddc1e9ca97e4a152da054da04743
+data\raw\meningioma_tumor\training_m2 (6).jpg,training_m2 (6).jpg,meningioma_tumor,1,512,512,1.0,262144,29.55,43.05,41.64,75.52,941b576f2ef2a66b02b1b7bcfe510711
+data\raw\meningioma_tumor\training_m (5).jpg,training_m (5).jpg,meningioma_tumor,1,512,512,1.0,262144,19.65,31.89,43.24,42.69,dec9dbdf02f56e0bc68a277f3a4eb80e
+data\raw\pituitary_tumor\training_p (188).jpg,training_p (188).jpg,pituitary_tumor,3,512,512,1.0,262144,31.61,57.42,41.36,51.61,84a2b884d91f1820be314b079c47e6a4
+data\raw\meningioma_tumor\training_m1(156).jpg,training_m1(156).jpg,meningioma_tumor,1,411,396,1.038,162756,33.22,84.57,66.0,132.89,5c5f39242ee5febbb1d545b69561c160
+data\raw\glioma_tumor\training_gg (515).jpg,training_gg (515).jpg,glioma_tumor,0,512,512,1.0,262144,19.77,26.25,33.56,49.2,051c321a2ac27895af6924f8f5050685
+data\raw\glioma_tumor\training_gg (526).jpg,training_gg (526).jpg,glioma_tumor,0,512,512,1.0,262144,18.17,26.9,36.43,27.62,d1ffcf83153a561f1bfdb6fdebb7518f
+data\raw\meningioma_tumor\training_m1(58).jpg,training_m1(58).jpg,meningioma_tumor,1,512,512,1.0,262144,22.08,34.74,45.73,99.13,8fcc21a3360756ef359e43f788cfa213
+data\raw\meningioma_tumor\training_m2 (128).jpg,training_m2 (128).jpg,meningioma_tumor,1,512,512,1.0,262144,25.62,43.18,48.48,68.87,43067dfa7a78de23e32328d900f0b200
+data\raw\glioma_tumor\training_gg (706).jpg,training_gg (706).jpg,glioma_tumor,0,512,512,1.0,262144,25.04,36.59,37.52,53.3,fbb86336b528d5186f8b752d9a1c89ca
+data\raw\meningioma_tumor\training_m3 (243).jpg,training_m3 (243).jpg,meningioma_tumor,1,512,512,1.0,262144,26.65,53.02,51.02,60.53,7e978a42fd9f1b9b5b71fac38abc75bb
+data\raw\meningioma_tumor\training_m (172).jpg,training_m (172).jpg,meningioma_tumor,1,512,512,1.0,262144,18.18,31.93,43.41,53.78,1d953cf35c57480925ffddcaa7dd157e
+data\raw\no_tumor\training_image(169).jpg,training_image(169).jpg,no_tumor,2,201,251,0.801,50451,14.03,43.95,42.56,1476.0,19e1c11270a5105459a8f52090262d4a
+data\raw\meningioma_tumor\training_m (147).jpg,training_m (147).jpg,meningioma_tumor,1,512,512,1.0,262144,21.25,38.67,48.64,63.68,8dc4ad174f3be04f6e304dbf0bf3980f
+data\raw\no_tumor\training_image(88).jpg,training_image(88).jpg,no_tumor,2,235,227,1.035,53345,16.21,57.75,52.18,820.42,f167689e5f730b77afebbb22e074fbd9
+data\raw\pituitary_tumor\training_p (481).jpg,training_p (481).jpg,pituitary_tumor,3,512,512,1.0,262144,35.01,53.01,44.79,75.61,2f1016c90043a2e770db25e4fe88d9c3
+data\raw\meningioma_tumor\training_m3 (102).jpg,training_m3 (102).jpg,meningioma_tumor,1,512,512,1.0,262144,27.9,52.23,42.69,56.23,80aa180fcca917df59bdafce2e182f04
+data\raw\no_tumor\training_image(148).jpg,training_image(148).jpg,no_tumor,2,236,236,1.0,55696,19.98,76.67,85.18,2589.97,d966ed9f01d9fac152e7a4bed63ac281
+data\raw\pituitary_tumor\training_p (434).jpg,training_p (434).jpg,pituitary_tumor,3,512,512,1.0,262144,30.4,59.35,44.07,57.99,7912950ce96728c38ce5ac89b5b11bfc
+data\raw\pituitary_tumor\training_p (451).jpg,training_p (451).jpg,pituitary_tumor,3,512,512,1.0,262144,34.26,47.63,36.8,70.73,fd3d5f357f50d70c3dc8852c85cb620f
+data\raw\pituitary_tumor\training_p (683).jpg,training_p (683).jpg,pituitary_tumor,3,512,512,1.0,262144,27.8,33.32,38.13,89.44,9fb0bba1d0797383a40a1cb85f912eca
+data\raw\pituitary_tumor\training_p (651).jpg,training_p (651).jpg,pituitary_tumor,3,512,512,1.0,262144,31.11,45.94,46.71,76.08,44cf3c71e3d371ef39e32dffd82054f5
+data\raw\glioma_tumor\training_gg (529).jpg,training_gg (529).jpg,glioma_tumor,0,512,512,1.0,262144,23.91,30.61,43.56,80.02,f170268c54f25cc8f3d6c42217781207
+data\raw\meningioma_tumor\training_m (99).jpg,training_m (99).jpg,meningioma_tumor,1,512,512,1.0,262144,24.98,32.63,38.83,79.88,94e2adfca745ebf2fb9fc9462ca9e57e
+data\raw\no_tumor\training_image(178).jpg,training_image(178).jpg,no_tumor,2,200,200,1.0,40000,9.73,30.86,48.42,1334.98,40da03aa22fb2373f965134a85094f8d
+data\raw\meningioma_tumor\training_m2 (74).jpg,training_m2 (74).jpg,meningioma_tumor,1,512,512,1.0,262144,28.99,42.48,40.71,78.4,6cb93a26cab5e3d5b57ee9fbf05252db
+data\raw\no_tumor\training_image (58).jpg,training_image (58).jpg,no_tumor,2,236,270,0.874,63720,16.7,78.35,54.53,736.62,2a24c37fe4b7a2244a110e1b0f759a64
+data\raw\no_tumor\training_image (50).jpg,training_image (50).jpg,no_tumor,2,236,243,0.971,57348,10.02,41.14,56.04,1146.43,80c99987b5f8e27d7d3bb99c61cb34ce
+data\raw\meningioma_tumor\training_m (16).jpg,training_m (16).jpg,meningioma_tumor,1,512,512,1.0,262144,24.54,39.56,41.99,51.64,58414996245667b610bf51e5beeebf31
+data\raw\meningioma_tumor\training_m3 (196).jpg,training_m3 (196).jpg,meningioma_tumor,1,512,512,1.0,262144,35.38,57.67,43.9,100.74,4c3539a6cae2d8ee25e677d48821af15
+data\raw\pituitary_tumor\training_p (723).jpg,training_p (723).jpg,pituitary_tumor,3,512,512,1.0,262144,25.88,40.42,49.6,80.92,6346da489bd55880a5ecd4c144d00398
+data\raw\meningioma_tumor\training_m2 (139).jpg,training_m2 (139).jpg,meningioma_tumor,1,512,512,1.0,262144,24.6,42.25,48.6,52.54,7f8f330eb3b9c40aa854564a7b21aacb
+data\raw\no_tumor\training_image(47).jpg,training_image(47).jpg,no_tumor,2,211,236,0.894,49796,13.71,64.62,42.15,609.05,78a16b2244a7587f8c1a587fae16947c
+data\raw\meningioma_tumor\training_m3 (117).jpg,training_m3 (117).jpg,meningioma_tumor,1,512,512,1.0,262144,26.68,43.95,39.72,65.54,d3ee07481735315aa7226a175268ce3b
+data\raw\pituitary_tumor\training_p (147).jpg,training_p (147).jpg,pituitary_tumor,3,512,512,1.0,262144,28.68,60.32,41.29,51.93,a21807ab933dfc8c7a94e4dd408cc75f
+data\raw\pituitary_tumor\training_p (618).jpg,training_p (618).jpg,pituitary_tumor,3,512,512,1.0,262144,30.59,46.57,45.6,73.72,604e7132fd5f74aa827cadb7986b0055
+data\raw\meningioma_tumor\training_m3 (212).jpg,training_m3 (212).jpg,meningioma_tumor,1,512,512,1.0,262144,20.78,35.85,48.46,29.85,4c19e7f67b3527b36efab3221dced907
+data\raw\glioma_tumor\training_gg (381).jpg,training_gg (381).jpg,glioma_tumor,0,512,512,1.0,262144,27.78,39.28,40.48,71.26,d67b9be957adb9d54b000faa5dcb4e79
+data\raw\glioma_tumor\training_gg (456).jpg,training_gg (456).jpg,glioma_tumor,0,512,512,1.0,262144,31.48,53.33,42.44,80.3,a435d401bf01748ce5406e7b25037f29
+data\raw\no_tumor\training_image (26).jpg,training_image (26).jpg,no_tumor,2,630,630,1.0,396900,54.39,29.72,36.33,51.83,f4b4f54022e5d07d1cfecf6868492299
+data\raw\pituitary_tumor\training_p (114).jpg,training_p (114).jpg,pituitary_tumor,3,512,512,1.0,262144,31.7,44.21,36.62,53.05,7b3dc4ab4c74a32fca577cbd2ed40878
+data\raw\glioma_tumor\training_gg (125).jpg,training_gg (125).jpg,glioma_tumor,0,512,512,1.0,262144,28.8,39.25,39.06,77.64,6ad1ed92aa4d83ec2ebb738b6e3122e3
+data\raw\glioma_tumor\testing_image(33).jpg,testing_image(33).jpg,glioma_tumor,0,337,412,0.818,138844,23.23,42.05,43.9,142.17,6d7fa2a171b97ecdb8cd414124283b66
+data\raw\glioma_tumor\training_gg (452).jpg,training_gg (452).jpg,glioma_tumor,0,512,512,1.0,262144,28.2,47.88,43.68,46.5,50e8176886d6f71b33de294ba35590da
+data\raw\meningioma_tumor\testing_image(33).jpg,testing_image(33).jpg,meningioma_tumor,1,290,342,0.848,99180,23.24,85.83,77.75,230.79,ae2ca1bc1c2ba66561a7db9473d10e6f
+data\raw\pituitary_tumor\training_p (518).jpg,training_p (518).jpg,pituitary_tumor,3,512,512,1.0,262144,36.95,58.18,41.95,97.13,eab2d8f0b8abc424e0916cbb42392866
+data\raw\pituitary_tumor\training_p (780).jpg,training_p (780).jpg,pituitary_tumor,3,512,512,1.0,262144,35.28,51.82,37.24,60.76,584ca4664acb9536e369e49eb98239ad
+data\raw\meningioma_tumor\training_m1(157).jpg,training_m1(157).jpg,meningioma_tumor,1,234,216,1.083,50544,10.38,74.59,58.76,1126.8,c5f2c0a999fa7cfcdaaca8989ce56c98
+data\raw\glioma_tumor\training_gg (458).jpg,training_gg (458).jpg,glioma_tumor,0,512,512,1.0,262144,29.82,54.48,44.77,49.46,669d6edbb64bd9c08c7285fda4c5d81c
+data\raw\pituitary_tumor\training_p (372).jpg,training_p (372).jpg,pituitary_tumor,3,512,512,1.0,262144,36.37,53.3,41.95,99.62,0a1f08a2410cadf51da9b056e27c10c4
+data\raw\meningioma_tumor\training_m2 (37).jpg,training_m2 (37).jpg,meningioma_tumor,1,512,512,1.0,262144,26.32,44.27,44.65,47.19,f14c97ccc94153c0ebaf4feb62582769
+data\raw\pituitary_tumor\training_p (630).jpg,training_p (630).jpg,pituitary_tumor,3,512,512,1.0,262144,27.25,39.49,48.24,91.36,8b65e0c1349eb59e83ca06795050a8f2
+data\raw\pituitary_tumor\training_p (227).jpg,training_p (227).jpg,pituitary_tumor,3,512,512,1.0,262144,28.27,59.87,50.35,42.86,2e202114a503f0a74deb3d5422660f8e
+data\raw\meningioma_tumor\training_m3 (151).jpg,training_m3 (151).jpg,meningioma_tumor,1,512,512,1.0,262144,30.61,46.12,44.49,89.55,03026579332e5d3a42a6f067ad36189f
+data\raw\glioma_tumor\training_gg (712).jpg,training_gg (712).jpg,glioma_tumor,0,512,512,1.0,262144,22.82,33.79,36.59,46.19,214c762806a5f0275da99a60462bd56e
+data\raw\pituitary_tumor\training_p (527).jpg,training_p (527).jpg,pituitary_tumor,3,512,512,1.0,262144,34.49,51.9,41.08,72.26,3f8c114461eed8ebefde2800bdd8c387
+data\raw\pituitary_tumor\training_p (806).jpg,training_p (806).jpg,pituitary_tumor,3,512,512,1.0,262144,30.08,44.38,41.65,69.28,5a1cece0dadcf0d5438962cf12279151
+data\raw\no_tumor\training_image(126).jpg,training_image(126).jpg,no_tumor,2,1000,714,1.401,714000,93.76,56.22,58.86,138.81,33b2d802fee882d771f27d16823bbf4c
+data\raw\meningioma_tumor\training_m2 (71).jpg,training_m2 (71).jpg,meningioma_tumor,1,512,512,1.0,262144,28.82,46.91,44.21,71.32,b3d56da120477ee95accc7835025df17
+data\raw\glioma_tumor\testing_image(27).jpg,testing_image(27).jpg,glioma_tumor,0,554,554,1.0,306916,46.02,48.01,60.05,730.01,7d799d23484ae387f520fdc9c4174282
+data\raw\pituitary_tumor\training_p (349).jpg,training_p (349).jpg,pituitary_tumor,3,512,512,1.0,262144,35.58,49.06,40.42,79.42,676fb3efc8f4a9472f9aede115c8b538
+data\raw\pituitary_tumor\training_p (80).jpg,training_p (80).jpg,pituitary_tumor,3,512,512,1.0,262144,35.66,57.95,46.16,73.26,ee11f39a228895c65ab223f65430a429
+data\raw\meningioma_tumor\training_m3 (63).jpg,training_m3 (63).jpg,meningioma_tumor,1,512,512,1.0,262144,27.87,55.48,48.22,41.93,12754b28a169fdda7bd1ccab56b39c18
+data\raw\pituitary_tumor\training_p (813).jpg,training_p (813).jpg,pituitary_tumor,3,256,256,1.0,65536,14.16,45.96,39.23,832.68,acd5c66b67e3b7e7ac4726af7a56f3c5
+data\raw\meningioma_tumor\training_m3 (224).jpg,training_m3 (224).jpg,meningioma_tumor,1,512,512,1.0,262144,31.38,49.05,38.68,69.34,325457ee3de8de4d6c6b845c2dd253ee
+data\raw\no_tumor\training_image(322).jpg,training_image(322).jpg,no_tumor,2,442,442,1.0,195364,25.59,47.15,56.38,28.27,e5437347d710af8e850b85b3680e7f9b
+data\raw\pituitary_tumor\training_p (309).jpg,training_p (309).jpg,pituitary_tumor,3,512,512,1.0,262144,29.84,56.82,44.45,48.78,49f8bb0a9faf1d83027bd0622676d127
+data\raw\glioma_tumor\training_gg (152).jpg,training_gg (152).jpg,glioma_tumor,0,512,512,1.0,262144,30.97,43.32,34.75,72.38,67f5082715032d03f0cc4a41e9abc0f9
+data\raw\glioma_tumor\testing_image(40).jpg,testing_image(40).jpg,glioma_tumor,0,353,427,0.827,150731,26.75,81.34,69.64,304.04,0f4ced3a9bf6e93ddf8ea0bf5376d100
+data\raw\no_tumor\training_image(244).jpg,training_image(244).jpg,no_tumor,2,225,225,1.0,50625,8.53,32.24,33.56,731.79,78c6f2102e0ba73c47a344d2880b4071
+data\raw\glioma_tumor\training_gg (746).jpg,training_gg (746).jpg,glioma_tumor,0,512,512,1.0,262144,20.32,26.77,33.23,49.11,85faf8d547c52d8718ba161ec3c7801f
+data\raw\glioma_tumor\testing_image.jpg,testing_image.jpg,glioma_tumor,0,495,619,0.8,306405,48.36,78.57,62.28,69.48,aad6ada8842d077e0ee00bd535f5e3f8
+data\raw\glioma_tumor\training_gg (141).jpg,training_gg (141).jpg,glioma_tumor,0,512,512,1.0,262144,22.04,33.39,40.91,43.05,79bec989e186ac145ff7516a89e1864d
+data\raw\pituitary_tumor\training_p (197).jpg,training_p (197).jpg,pituitary_tumor,3,512,512,1.0,262144,32.83,62.82,39.99,60.59,b612aa0d702020c3dd896f4294000a02
+data\raw\no_tumor\training_image(104).jpg,training_image(104).jpg,no_tumor,2,236,226,1.044,53336,14.65,66.18,44.97,582.47,14ca8ed36809cf3145a16c5e984b5d25
+data\raw\glioma_tumor\training_gg (357).jpg,training_gg (357).jpg,glioma_tumor,0,512,512,1.0,262144,20.9,31.98,40.63,32.56,e8e80da2baf44c8bece625b4cb354d67
+data\raw\pituitary_tumor\training_p (5).jpg,training_p (5).jpg,pituitary_tumor,3,512,512,1.0,262144,32.93,44.91,44.63,114.12,88104735e71c48c7dbfbcb4486c452e3
+data\raw\meningioma_tumor\training_m1(63).jpg,training_m1(63).jpg,meningioma_tumor,1,512,512,1.0,262144,20.0,38.73,58.1,38.35,e8ea88425d4b66e49a7a357e3c415efa
+data\raw\pituitary_tumor\testing_image(90).jpg,testing_image(90).jpg,pituitary_tumor,3,892,826,1.08,736792,134.68,67.24,39.4,28.46,dcd64c030193c4b3a8a69460e4906807
+data\raw\no_tumor\training_image(258).jpg,training_image(258).jpg,no_tumor,2,724,851,0.851,616124,63.05,27.39,34.54,9.44,84482e0ddc1ea348e987987c7d9252dd
+data\raw\pituitary_tumor\training_p (739).jpg,training_p (739).jpg,pituitary_tumor,3,512,512,1.0,262144,25.64,34.24,37.72,71.09,e5b45518d46fd18293867400f29fb723
+data\raw\meningioma_tumor\training_m (64).jpg,training_m (64).jpg,meningioma_tumor,1,512,512,1.0,262144,24.92,48.12,56.5,50.0,41d3e66a692f1b5b73ad9ad7b3fd4f70
+data\raw\pituitary_tumor\training_p (498).jpg,training_p (498).jpg,pituitary_tumor,3,512,512,1.0,262144,35.62,55.51,41.19,78.13,ad5bfec1418f2b31c171069475b4731e
+data\raw\meningioma_tumor\training_m2 (30).jpg,training_m2 (30).jpg,meningioma_tumor,1,512,512,1.0,262144,24.56,42.22,41.63,53.12,1be83ee6d972151985fc883d668b24aa
+data\raw\meningioma_tumor\training_m1(141).jpg,training_m1(141).jpg,meningioma_tumor,1,239,224,1.067,53536,17.38,95.22,75.48,1194.65,ad837e2c7e23d168c1d8c4ff78daed0b
+data\raw\no_tumor\testing_image(13).jpg,testing_image(13).jpg,no_tumor,2,236,236,1.0,55696,17.89,95.44,82.69,1535.21,87faa38085c7eba430487ff7d9599694
+data\raw\no_tumor\training_image(281).jpg,training_image(281).jpg,no_tumor,2,850,872,0.975,741200,162.1,59.01,58.69,272.11,342b29d63e0103afbe3fab52b8536af2
+data\raw\pituitary_tumor\training_p (347).jpg,training_p (347).jpg,pituitary_tumor,3,512,512,1.0,262144,34.71,50.14,42.5,79.75,be89ca0a4d1fe5c25f76865de4d50c33
+data\raw\pituitary_tumor\training_p (72).jpg,training_p (72).jpg,pituitary_tumor,3,512,512,1.0,262144,35.77,50.79,35.33,82.52,b6d9c5f8ffbc84a944aafc52d2821c80
+data\raw\meningioma_tumor\training_m2 (43).jpg,training_m2 (43).jpg,meningioma_tumor,1,512,512,1.0,262144,27.61,38.31,41.16,70.98,fa6ef8c83b5ff0b0b648db47926efc09
+data\raw\pituitary_tumor\training_p (810).jpg,training_p (810).jpg,pituitary_tumor,3,512,512,1.0,262144,27.06,36.46,37.74,55.8,5f2ab0f5245b5f90584ed5aad625a5a3
+data\raw\pituitary_tumor\training_p (579).jpg,training_p (579).jpg,pituitary_tumor,3,512,512,1.0,262144,31.34,57.51,45.14,62.16,05c3caea567ffd77caf79c12654b87e5
+data\raw\pituitary_tumor\training_p (383).jpg,training_p (383).jpg,pituitary_tumor,3,512,512,1.0,262144,31.89,45.48,34.49,69.41,f33abc1208d8411e8e28a37c86b0bf96
+data\raw\pituitary_tumor\training_p (11).jpg,training_p (11).jpg,pituitary_tumor,3,512,512,1.0,262144,29.13,40.54,40.32,65.38,91b79da6cee3f8e8780b131961a62793
+data\raw\glioma_tumor\training_gg (206).jpg,training_gg (206).jpg,glioma_tumor,0,512,512,1.0,262144,24.38,45.0,49.43,47.81,9e1dce18eac9accf583743e13e52e4b7
+data\raw\meningioma_tumor\training_m1(150).jpg,training_m1(150).jpg,meningioma_tumor,1,313,393,0.796,123009,25.96,79.71,63.89,316.97,33cf7be1f0f6d5e7cc54064875ffef28
+data\raw\pituitary_tumor\training_p (171).jpg,training_p (171).jpg,pituitary_tumor,3,512,512,1.0,262144,30.2,51.47,36.32,47.8,750a9de05c8969fac6482996f3fbfadc
+data\raw\no_tumor\testing_image(77).jpg,testing_image(77).jpg,no_tumor,2,210,234,0.897,49140,13.71,66.13,40.61,529.08,c03743fd455214695410b07a45445df6
+data\raw\no_tumor\training_image(306).jpg,training_image(306).jpg,no_tumor,2,630,630,1.0,396900,59.91,29.72,36.33,51.83,d9c32d64bae1e0350522351c6a7cea0b
+data\raw\no_tumor\training_image(49).jpg,training_image(49).jpg,no_tumor,2,235,229,1.026,53815,12.17,36.75,44.79,694.54,1387112a2ca5824007c964f73761ca75
+data\raw\no_tumor\training_image(217).jpg,training_image(217).jpg,no_tumor,2,227,222,1.023,50394,11.95,35.55,37.95,1292.06,4295eee904f5e6c205b01cbae01efab6
+data\raw\meningioma_tumor\testing_image(83).jpg,testing_image(83).jpg,meningioma_tumor,1,224,219,1.023,49056,14.09,62.94,50.27,1142.94,0f26de79b70825491dbee38f846274fd
+data\raw\glioma_tumor\training_gg (201).jpg,training_gg (201).jpg,glioma_tumor,0,512,512,1.0,262144,27.13,38.29,44.25,59.41,fc3a6f9dd2de3c962fc688ec31eb7e85
+data\raw\pituitary_tumor\training_p (538).jpg,training_p (538).jpg,pituitary_tumor,3,512,512,1.0,262144,29.21,35.07,38.44,86.22,5dac8de9e4b074043da441cc5f687009
+data\raw\pituitary_tumor\training_p (328).jpg,training_p (328).jpg,pituitary_tumor,3,512,512,1.0,262144,33.6,54.47,44.81,91.85,ed0fc428e9a914919f20699333c5708e
+data\raw\meningioma_tumor\training_m3 (40).jpg,training_m3 (40).jpg,meningioma_tumor,1,512,512,1.0,262144,22.3,39.63,49.36,36.77,7609b782b7158ae4119962ca7ac3737f
+data\raw\no_tumor\training_image(48).jpg,training_image(48).jpg,no_tumor,2,236,290,0.814,68440,13.71,44.38,42.97,444.27,93d4bba38c027c84aee1f2a001e685a4
+data\raw\no_tumor\testing_image(11).jpg,testing_image(11).jpg,no_tumor,2,236,236,1.0,55696,7.4,54.84,33.07,31.74,eabe8f8848daf6e6c0a0ae6f5b60129c
+data\raw\glioma_tumor\training_gg (19).jpg,training_gg (19).jpg,glioma_tumor,0,512,512,1.0,262144,23.67,30.77,41.64,84.44,c24b24a2abe875ecbb6632a94583df65
+data\raw\pituitary_tumor\training_p (586).jpg,training_p (586).jpg,pituitary_tumor,3,512,512,1.0,262144,24.41,41.57,36.56,38.57,d45283326ff8411db070160772e674e9
+data\raw\meningioma_tumor\training_m3 (79).jpg,training_m3 (79).jpg,meningioma_tumor,1,512,512,1.0,262144,27.92,42.01,40.57,64.37,5b8f29100280feee483e001d23a3505b
+data\raw\glioma_tumor\training_gg (75).jpg,training_gg (75).jpg,glioma_tumor,0,512,512,1.0,262144,26.67,27.77,26.5,52.33,4e4185b9390515bc07f51efacce5f2a2
+data\raw\pituitary_tumor\training_p (386).jpg,training_p (386).jpg,pituitary_tumor,3,512,512,1.0,262144,33.76,49.02,41.49,76.03,2888c566c6f8838aaec9dd80b29e296c
+data\raw\pituitary_tumor\training_p (91).jpg,training_p (91).jpg,pituitary_tumor,3,512,512,1.0,262144,34.02,55.53,49.79,99.87,208199f836f52ee6ef5a1f7a14768d77
+data\raw\meningioma_tumor\training_m2 (36).jpg,training_m2 (36).jpg,meningioma_tumor,1,512,512,1.0,262144,22.1,38.79,44.07,35.25,45fbc3f69078f45a6eba905c1adf8ed6
+data\raw\meningioma_tumor\training_m3 (135).jpg,training_m3 (135).jpg,meningioma_tumor,1,1275,1427,0.893,1819425,227.59,76.34,69.37,12.22,29f733259e56d12658ac97f781f883b6
+data\raw\pituitary_tumor\training_p (502).jpg,training_p (502).jpg,pituitary_tumor,3,512,512,1.0,262144,34.51,46.36,39.49,67.75,0558846f5dc0e974b75eac9b0aa1b2be
+data\raw\meningioma_tumor\training_m2 (172).jpg,training_m2 (172).jpg,meningioma_tumor,1,512,512,1.0,262144,23.3,40.01,43.77,49.25,0e6a27fd60480c2baf61d489a7e6eb16
+data\raw\no_tumor\testing_image(41).jpg,testing_image(41).jpg,no_tumor,2,236,236,1.0,55696,12.3,56.1,70.87,1082.13,fc6ff0af19a89f3e2c2c4b1d7f5b9dc6
+data\raw\meningioma_tumor\training_m1(87).jpg,training_m1(87).jpg,meningioma_tumor,1,512,512,1.0,262144,20.12,31.88,43.39,60.45,ddd33194bac1f06926cc5ed73477ecb4
+data\raw\no_tumor\training_image(89).jpg,training_image(89).jpg,no_tumor,2,235,277,0.848,65095,18.63,92.53,67.65,1756.48,8280a26ded8958ad876c053fca1a0101
+data\raw\glioma_tumor\training_gg (663).jpg,training_gg (663).jpg,glioma_tumor,0,512,512,1.0,262144,18.7,23.47,36.23,38.12,0f92615af0d4ad2ce5bc73cbebd3c6da
+data\raw\pituitary_tumor\training_p (120).jpg,training_p (120).jpg,pituitary_tumor,3,512,512,1.0,262144,33.71,65.8,48.07,61.44,43e60701ad7b923fc477e9276ed444d6
+data\raw\no_tumor\training_image(182).jpg,training_image(182).jpg,no_tumor,2,207,243,0.852,50301,13.96,75.2,68.1,795.05,ebd0a54a7b151a9578e4c27c595caffa
+data\raw\glioma_tumor\training_gg (639).jpg,training_gg (639).jpg,glioma_tumor,0,512,512,1.0,262144,18.13,22.9,30.69,31.34,814cd3caeb600b847ce76fd07ff7323c
+data\raw\pituitary_tumor\training_p (595).jpg,training_p (595).jpg,pituitary_tumor,3,512,512,1.0,262144,31.66,53.25,41.1,58.9,4299e901d5ec8dcee02f4de12a35a32e
+data\raw\glioma_tumor\training_gg (424).jpg,training_gg (424).jpg,glioma_tumor,0,512,512,1.0,262144,26.65,43.8,41.24,58.8,70cc51ef7d807aebcda0ed08576178f6
+data\raw\no_tumor\training_image(208).jpg,training_image(208).jpg,no_tumor,2,926,649,1.427,600974,70.5,57.92,40.63,18.96,61d0aeacb5768eca8d91ed7915c5648b
+data\raw\glioma_tumor\training_gg (358).jpg,training_gg (358).jpg,glioma_tumor,0,512,512,1.0,262144,24.36,41.11,46.71,44.27,344f93143fef032d4a8539435db003f4
+data\raw\meningioma_tumor\training_m3 (29).jpg,training_m3 (29).jpg,meningioma_tumor,1,512,512,1.0,262144,29.55,42.59,43.04,82.81,559063c923e6b23869e9399cf9f9eee9
+data\raw\meningioma_tumor\training_m3 (178).jpg,training_m3 (178).jpg,meningioma_tumor,1,512,512,1.0,262144,30.18,48.47,43.04,71.64,3aa9908ac03cb5258acaa1d345309e4b
+data\raw\pituitary_tumor\training_p (156).jpg,training_p (156).jpg,pituitary_tumor,3,512,512,1.0,262144,35.04,49.23,34.05,69.63,fcc6aecc4f7d6bd323c9b105b46cb9e1
+data\raw\glioma_tumor\training_gg (96).jpg,training_gg (96).jpg,glioma_tumor,0,512,512,1.0,262144,31.79,40.74,34.4,69.87,3ce564f75e88806c7509cc712e2f8b3f
+data\raw\pituitary_tumor\training_p (530).jpg,training_p (530).jpg,pituitary_tumor,3,512,512,1.0,262144,31.73,45.76,34.82,54.89,1c2dab36ed7e8f8c2970e55595cbce38
+data\raw\pituitary_tumor\testing_image(88).jpg,testing_image(88).jpg,pituitary_tumor,3,900,741,1.215,666900,185.06,41.23,39.68,390.2,008c98403b057fc344bf0a9f2e7de6c2
+data\raw\meningioma_tumor\training_m3 (179).jpg,training_m3 (179).jpg,meningioma_tumor,1,512,512,1.0,262144,25.77,58.18,62.89,37.43,07bb7dd186d9c55d7aa73b579beb6811
+data\raw\no_tumor\training_image(229).jpg,training_image(229).jpg,no_tumor,2,453,496,0.913,224688,28.68,47.65,43.24,16.84,f1cc5a6fdc6aa18c1f2cf8b7ac16b907
+data\raw\meningioma_tumor\training_m3 (60).jpg,training_m3 (60).jpg,meningioma_tumor,1,512,512,1.0,262144,27.54,46.98,44.7,51.34,052f3be92ac2551836ee7b865c8d104b
+data\raw\glioma_tumor\training_gg (318).jpg,training_gg (318).jpg,glioma_tumor,0,512,512,1.0,262144,26.88,39.47,43.14,82.2,de7a65057688b928ff24ec76aefa2bcc
+data\raw\glioma_tumor\training_gg (760).jpg,training_gg (760).jpg,glioma_tumor,0,512,512,1.0,262144,25.73,34.32,38.12,57.94,ff04cb3f67c352727217d7619ed66228
+data\raw\pituitary_tumor\training_p (509).jpg,training_p (509).jpg,pituitary_tumor,3,512,512,1.0,262144,35.58,53.12,44.19,95.24,0c65f470d9aff8cc26df417ec684e1e9
+data\raw\pituitary_tumor\training_p (529).jpg,training_p (529).jpg,pituitary_tumor,3,512,512,1.0,262144,32.7,48.15,36.98,61.12,3575cd7cc8df80e23c54405e1a603c30
+data\raw\pituitary_tumor\testing_image(2).jpg,testing_image(2).jpg,pituitary_tumor,3,488,512,0.953,249856,42.65,54.31,42.21,99.01,5f60bd5d9e492ec2ff3e37f8d1e16f72
+data\raw\glioma_tumor\training_gg (825).jpg,training_gg (825).jpg,glioma_tumor,0,512,512,1.0,262144,20.75,21.16,28.72,40.34,74d574d90715c9c826bdde2c4f0d84c2
+data\raw\glioma_tumor\training_gg (710).jpg,training_gg (710).jpg,glioma_tumor,0,512,512,1.0,262144,24.07,39.97,44.11,49.91,d8f644a36385aa0f2e36c019e4737977
+data\raw\meningioma_tumor\training_m2 (48).jpg,training_m2 (48).jpg,meningioma_tumor,1,512,512,1.0,262144,20.9,36.91,41.86,28.8,710afcbe1c8d11df172059d9ef94cb7a
+data\raw\glioma_tumor\training_gg (798).jpg,training_gg (798).jpg,glioma_tumor,0,512,512,1.0,262144,25.15,37.83,42.61,47.58,987ced7cff4b38f06570b5668d8f96e8
+data\raw\pituitary_tumor\training_p (63).jpg,training_p (63).jpg,pituitary_tumor,3,512,512,1.0,262144,32.11,54.04,49.76,94.43,25c38d351aafda12a04848a75657a5ad
+data\raw\pituitary_tumor\training_p (288).jpg,training_p (288).jpg,pituitary_tumor,3,512,512,1.0,262144,37.08,56.18,41.42,82.21,de13a6c8a5c32863e8242cb2aa4a39aa
+data\raw\no_tumor\training_image(320).jpg,training_image(320).jpg,no_tumor,2,407,485,0.839,197395,45.17,86.37,49.72,145.57,26db07a732a8dc8659b8a1e7d9df4d97
+data\raw\meningioma_tumor\training_m (112).jpg,training_m (112).jpg,meningioma_tumor,1,512,512,1.0,262144,17.33,32.48,49.11,25.61,8bf85fc5e5e8eb3634844b57fc4b23bf
+data\raw\meningioma_tumor\training_m2 (21).jpg,training_m2 (21).jpg,meningioma_tumor,1,512,512,1.0,262144,22.34,36.83,46.69,33.15,537880a132ee35141a1e3236e207421b
+data\raw\meningioma_tumor\training_m3 (37).jpg,training_m3 (37).jpg,meningioma_tumor,1,512,512,1.0,262144,26.54,52.9,57.46,34.22,a67017d77589631c7060a0e618bf5ec0
+data\raw\meningioma_tumor\training_m3 (199).jpg,training_m3 (199).jpg,meningioma_tumor,1,512,512,1.0,262144,32.42,59.21,48.39,64.51,69a2a8a82b4de23f8832961fdf6f4c3d
+data\raw\glioma_tumor\training_gg (514).jpg,training_gg (514).jpg,glioma_tumor,0,512,512,1.0,262144,20.79,29.57,37.7,66.18,484fdd46b79b31d72938f86bb248000b
+data\raw\glioma_tumor\training_gg (344).jpg,training_gg (344).jpg,glioma_tumor,0,512,512,1.0,262144,23.18,31.0,34.43,38.05,59ed2b9eef9e853ae1bee13cd4c9ac29
+data\raw\no_tumor\training_image(287).jpg,training_image(287).jpg,no_tumor,2,225,225,1.0,50625,9.94,29.76,36.27,776.73,0cc82102690c7ecbba7b211e9dca4da6
+data\raw\glioma_tumor\training_gg (181).jpg,training_gg (181).jpg,glioma_tumor,0,512,512,1.0,262144,28.47,49.92,49.35,68.15,14e035e0563b6457ec70ae45b00a5d10
+data\raw\meningioma_tumor\training_m (157).jpg,training_m (157).jpg,meningioma_tumor,1,512,512,1.0,262144,16.59,31.32,41.6,33.08,a79f5bb2e910c5fae2ac14e8c51a0fea
+data\raw\no_tumor\training_image(128).jpg,training_image(128).jpg,no_tumor,2,446,512,0.871,228352,32.24,47.55,54.0,105.69,02ca354a9c6dcfb0d234f3990937191d
+data\raw\glioma_tumor\training_gg (469).jpg,training_gg (469).jpg,glioma_tumor,0,512,512,1.0,262144,25.55,45.08,47.43,42.53,bf6f2aeefd0e2eb37e5a8a4b1d8dc343
+data\raw\glioma_tumor\training_gg (701).jpg,training_gg (701).jpg,glioma_tumor,0,512,512,1.0,262144,23.87,39.72,45.79,59.12,1db01faae111b70b7b6fecf3650d2e66
+data\raw\no_tumor\training_image(213).jpg,training_image(213).jpg,no_tumor,2,225,225,1.0,50625,8.53,32.24,33.56,731.79,78c6f2102e0ba73c47a344d2880b4071
+data\raw\pituitary_tumor\training_p (515).jpg,training_p (515).jpg,pituitary_tumor,3,512,512,1.0,262144,38.45,58.41,44.05,117.63,59664e141c4141e51bc6fa35af09ea2c
+data\raw\pituitary_tumor\training_p (519).jpg,training_p (519).jpg,pituitary_tumor,3,512,512,1.0,262144,34.74,49.82,35.47,73.52,445c5eee4171a9b75e85d42d3a2b6b1b
+data\raw\pituitary_tumor\training_p (38).jpg,training_p (38).jpg,pituitary_tumor,3,512,512,1.0,262144,34.56,46.32,36.57,83.55,0b5829ff88fd2ba33b192cf2ea17a814
+data\raw\pituitary_tumor\training_p (139).jpg,training_p (139).jpg,pituitary_tumor,3,900,741,1.215,666900,180.26,42.8,38.36,431.26,bdca7bf66eb2bc308eeb749b5ef5d7ac
+data\raw\glioma_tumor\training_gg (606).jpg,training_gg (606).jpg,glioma_tumor,0,512,512,1.0,262144,20.78,27.27,31.99,77.9,35ebed6cd5b51018354187ad0ab2fb25
+data\raw\meningioma_tumor\training_m (7).jpg,training_m (7).jpg,meningioma_tumor,1,512,512,1.0,262144,18.19,28.5,41.01,27.64,afd1defa35d35be573edd6d85db3088d
+data\raw\glioma_tumor\training_gg (92).jpg,training_gg (92).jpg,glioma_tumor,0,512,512,1.0,262144,29.12,45.02,44.16,68.22,8fc35082e01f14c577eb68f3336b4ec8
+data\raw\glioma_tumor\training_gg (295).jpg,training_gg (295).jpg,glioma_tumor,0,512,512,1.0,262144,23.16,27.83,32.64,47.24,fd776273a0b30eaf2cf0ee27cde8f21e
+data\raw\glioma_tumor\training_gg (418).jpg,training_gg (418).jpg,glioma_tumor,0,512,512,1.0,262144,25.62,33.05,35.09,54.23,8490c3edace2b595074394ee38329885
+data\raw\pituitary_tumor\testing_image(85).jpg,testing_image(85).jpg,pituitary_tumor,3,512,512,1.0,262144,37.45,43.36,48.25,83.63,0140560cc9a91abc3e62e9e1bec6c5ea
+data\raw\glioma_tumor\training_gg (754).jpg,training_gg (754).jpg,glioma_tumor,0,512,512,1.0,262144,17.48,26.51,32.37,39.72,e5034edff4416d5e7c959f44ede969df
+data\raw\pituitary_tumor\training_p (143).jpg,training_p (143).jpg,pituitary_tumor,3,512,512,1.0,262144,29.38,53.66,40.96,49.64,105b8b0c29ff614a6b92e0f4ea203a1f
+data\raw\no_tumor\training_image(77).jpg,training_image(77).jpg,no_tumor,2,236,220,1.073,51920,14.64,60.77,56.57,1321.27,60e765179ae22c1d69cb6c1233f17354
+data\raw\glioma_tumor\testing_image(38).jpg,testing_image(38).jpg,glioma_tumor,0,334,407,0.821,135938,25.65,57.82,39.13,197.57,39e81d2dae5e76f96aa515cc82e13ef1
+data\raw\meningioma_tumor\training_m1(137).jpg,training_m1(137).jpg,meningioma_tumor,1,312,401,0.778,125112,23.4,65.53,82.56,483.27,0017a277c3504d5ca435c69dacb70031
+data\raw\meningioma_tumor\training_m (155).jpg,training_m (155).jpg,meningioma_tumor,1,512,512,1.0,262144,24.49,41.23,55.23,49.9,73ecd8efb0ac222160d0a610ab6da687
+data\raw\no_tumor\training_image(161).jpg,training_image(161).jpg,no_tumor,2,236,236,1.0,55696,13.26,54.75,40.46,470.48,665bf16ea1489fb798ee0dd3acaade79
+data\raw\no_tumor\training_image(145).jpg,training_image(145).jpg,no_tumor,2,236,236,1.0,55696,19.98,76.67,85.18,2589.97,d966ed9f01d9fac152e7a4bed63ac281
+data\raw\no_tumor\training_image(107).jpg,training_image(107).jpg,no_tumor,2,233,210,1.11,48930,14.27,55.65,57.12,1709.07,6142acdc1f1b32e31ea0f73324b5f356
+data\raw\meningioma_tumor\training_m (158).jpg,training_m (158).jpg,meningioma_tumor,1,512,512,1.0,262144,15.99,30.59,41.78,25.1,127ed9f4f41d1ef2f7449c6a8ccd9549
+data\raw\meningioma_tumor\training_m3 (140).jpg,training_m3 (140).jpg,meningioma_tumor,1,264,336,0.786,88704,11.85,66.85,52.4,179.15,5bfe33062e23793d50769b45b3813026
+data\raw\pituitary_tumor\training_p (141).jpg,training_p (141).jpg,pituitary_tumor,3,512,512,1.0,262144,28.79,53.99,42.38,48.57,1d5ae7e1693091766d7d87034efa0113
+data\raw\meningioma_tumor\training_m2 (79).jpg,training_m2 (79).jpg,meningioma_tumor,1,512,512,1.0,262144,19.94,37.42,49.88,28.15,746eda1cf99f17f481e8108ee0c73141
+data\raw\no_tumor\training_image (15).jpg,training_image (15).jpg,no_tumor,2,630,630,1.0,396900,57.42,32.14,33.72,234.37,e0e9fee7b1fe0b3a4fc4af3189e2dc1f
+data\raw\no_tumor\training_image(319).jpg,training_image(319).jpg,no_tumor,2,416,489,0.851,203424,57.17,105.69,51.15,430.59,a0bb7fb086b7397c51527ca0506f45b1
+data\raw\pituitary_tumor\training_p (172).jpg,training_p (172).jpg,pituitary_tumor,3,512,512,1.0,262144,29.05,53.54,45.62,48.68,3668ed9085d384256e6dd4aebe06f346
+data\raw\glioma_tumor\training_gg (683).jpg,training_gg (683).jpg,glioma_tumor,0,512,512,1.0,262144,24.13,33.22,39.48,44.84,13f65ac358aa4329c6bb53e4e500f93b
+data\raw\pituitary_tumor\testing_image(47).jpg,testing_image(47).jpg,pituitary_tumor,3,225,225,1.0,50625,16.02,72.92,54.09,2147.22,b7f875bedfac719015cc81bc888151b3
+data\raw\no_tumor\testing_image(17).jpg,testing_image(17).jpg,no_tumor,2,236,270,0.874,63720,20.6,78.35,54.53,736.62,452575a847b9814148933342f47a4a90
+data\raw\no_tumor\training_image(227).jpg,training_image(227).jpg,no_tumor,2,456,501,0.91,228456,33.06,35.18,36.75,19.89,48103b0bdb35c0ee3d45c8b302098f96
+data\raw\glioma_tumor\training_gg (657).jpg,training_gg (657).jpg,glioma_tumor,0,512,512,1.0,262144,20.92,24.99,37.22,58.85,0a72b6b55ec2892ba9f0baea3f33001d
+data\raw\glioma_tumor\training_gg (588).jpg,training_gg (588).jpg,glioma_tumor,0,512,512,1.0,262144,16.24,19.98,31.77,64.31,c87a105da6aa9e934eace8237fd3ba9e
+data\raw\glioma_tumor\testing_image(81).jpg,testing_image(81).jpg,glioma_tumor,0,354,442,0.801,156468,29.59,66.03,60.05,195.22,5aae5fc48e326885ec0f62347fc1e522
+data\raw\pituitary_tumor\training_p (70).jpg,training_p (70).jpg,pituitary_tumor,3,512,512,1.0,262144,33.17,52.36,42.23,98.05,1e93be41f7799cf65e4ab14798c669e8
+data\raw\glioma_tumor\training_gg (574).jpg,training_gg (574).jpg,glioma_tumor,0,512,512,1.0,262144,20.89,26.44,34.96,65.52,e25a497dd6af0ded47300d1489ffd671
+data\raw\pituitary_tumor\training_p (487).jpg,training_p (487).jpg,pituitary_tumor,3,512,512,1.0,262144,32.76,50.4,42.1,60.09,bd5053e65e788dc23bdf278cc7fc7e2f
+data\raw\pituitary_tumor\training_p (596).jpg,training_p (596).jpg,pituitary_tumor,3,512,512,1.0,262144,30.47,52.96,41.23,55.39,ebc7a09e10cc253b78156253bc5d06e3
+data\raw\pituitary_tumor\training_p (369).jpg,training_p (369).jpg,pituitary_tumor,3,512,512,1.0,262144,33.54,44.88,38.25,78.55,c5354092578bbfd43c3a5f104bb3de3a
+data\raw\no_tumor\training_image(150).jpg,training_image(150).jpg,no_tumor,2,236,269,0.877,63484,20.06,70.1,59.79,988.51,1829d716613d6d3022da2f82368071ae
+data\raw\pituitary_tumor\training_p (335).jpg,training_p (335).jpg,pituitary_tumor,3,512,512,1.0,262144,33.99,50.93,45.73,60.73,03204c70a905b23fbd409ad8d994b1c7
+data\raw\meningioma_tumor\training_m (185).jpg,training_m (185).jpg,meningioma_tumor,1,512,512,1.0,262144,16.79,30.36,53.01,27.88,c9e42d3c9fc1b30b5cf10ba1e579c2e0
+data\raw\pituitary_tumor\training_p (376).jpg,training_p (376).jpg,pituitary_tumor,3,512,512,1.0,262144,36.2,59.98,47.81,97.1,5170ff4b94fa1de6ab2616b84e1eb86d
+data\raw\no_tumor\training_image(1).jpg,training_image(1).jpg,no_tumor,2,236,290,0.814,68440,13.71,44.38,42.97,444.27,93d4bba38c027c84aee1f2a001e685a4
+data\raw\glioma_tumor\training_gg (525).jpg,training_gg (525).jpg,glioma_tumor,0,512,512,1.0,262144,18.33,25.7,33.89,31.08,b444143abea8817dcadf3d2809f88b0b
+data\raw\no_tumor\training_image(280).jpg,training_image(280).jpg,no_tumor,2,225,225,1.0,50625,16.91,63.46,54.54,2032.06,05b45654c9c3196486ab02d5045a9e80
+data\raw\glioma_tumor\training_gg (383).jpg,training_gg (383).jpg,glioma_tumor,0,512,512,1.0,262144,29.38,41.86,43.86,93.65,ff4d7c559c9528a1de5a2bd62b6de865
+data\raw\glioma_tumor\training_gg (542).jpg,training_gg (542).jpg,glioma_tumor,0,512,512,1.0,262144,15.72,22.32,37.44,25.21,eac8997004de0b16f24b37dfea149fd6
+data\raw\pituitary_tumor\training_p (23).jpg,training_p (23).jpg,pituitary_tumor,3,512,512,1.0,262144,24.32,33.57,39.9,54.57,94a8a892ec5a8d9f9cc3a5d49088ffde
+data\raw\glioma_tumor\training_gg (622).jpg,training_gg (622).jpg,glioma_tumor,0,512,512,1.0,262144,18.96,24.39,34.88,42.46,bc34b8abe831972c36b5b76e44f1fa35
+data\raw\pituitary_tumor\training_p (106).jpg,training_p (106).jpg,pituitary_tumor,3,512,512,1.0,262144,33.7,54.19,48.47,90.64,aa8620ea068d9fd3ecff97a292d5d439
+data\raw\pituitary_tumor\training_p (39).jpg,training_p (39).jpg,pituitary_tumor,3,512,512,1.0,262144,34.47,44.73,34.56,77.05,35551159033370fca9c875b4359f4593
+data\raw\pituitary_tumor\training_p (649).jpg,training_p (649).jpg,pituitary_tumor,3,512,512,1.0,262144,27.82,40.73,38.97,66.81,5f7a79b3e1e75b1ca8e8f406e5009f05
+data\raw\meningioma_tumor\testing_image(81).jpg,testing_image(81).jpg,meningioma_tumor,1,225,225,1.0,50625,7.43,25.96,39.06,204.27,dd452006a5031789caa5d535362fc5c3
+data\raw\meningioma_tumor\training_m1(128).jpg,training_m1(128).jpg,meningioma_tumor,1,630,423,1.489,266490,36.58,72.48,64.3,161.78,fd90d34d5f8fb9e36e9a3a74ce51152b
+data\raw\no_tumor\testing_image(10).jpg,testing_image(10).jpg,no_tumor,2,236,260,0.908,61360,14.8,57.08,47.94,658.82,b3985de17782311036e2c40e43eba428
+data\raw\glioma_tumor\training_gg (118).jpg,training_gg (118).jpg,glioma_tumor,0,512,512,1.0,262144,25.24,36.77,42.61,80.37,f4e16f4fb62fd13fd57fb3e4594483e0
+data\raw\no_tumor\training_image(33).jpg,training_image(33).jpg,no_tumor,2,236,236,1.0,55696,13.17,79.62,89.4,1142.27,ce33675bd11e9b703d6633037e834531
+data\raw\no_tumor\testing_image(1).jpg,testing_image(1).jpg,no_tumor,2,236,236,1.0,55696,10.85,56.68,79.74,848.66,f6a66c84d44375a05fb458bc0b450fe8
+data\raw\glioma_tumor\training_gg (422).jpg,training_gg (422).jpg,glioma_tumor,0,512,512,1.0,262144,25.21,44.91,45.2,44.16,d66fed67690ec7ce85d887d705920782
+data\raw\glioma_tumor\training_gg (468).jpg,training_gg (468).jpg,glioma_tumor,0,512,512,1.0,262144,21.49,33.78,39.72,26.79,3cc58d926b7dc6b94a2e82ca5afe4f7a
+data\raw\meningioma_tumor\training_m1(196).jpg,training_m1(196).jpg,meningioma_tumor,1,209,241,0.867,50369,9.39,61.15,66.26,1081.53,b41f5c6d2d27eaf8ba9059884dfaf150
+data\raw\glioma_tumor\training_gg (194).jpg,training_gg (194).jpg,glioma_tumor,0,512,512,1.0,262144,24.65,37.16,39.57,42.14,86c78744f71317e26a7581a40c06bd65
+data\raw\pituitary_tumor\training_p (7).jpg,training_p (7).jpg,pituitary_tumor,3,512,512,1.0,262144,32.92,49.83,47.25,75.55,698cafa4f488932468797722c2aae3ea
+data\raw\meningioma_tumor\training_m2 (91).jpg,training_m2 (91).jpg,meningioma_tumor,1,512,512,1.0,262144,25.01,42.93,45.55,46.9,7bc6ef448c9d7c9973274f34392f77db

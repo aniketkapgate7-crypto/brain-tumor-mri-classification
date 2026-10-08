@@ -1,0 +1,74 @@
+# Brain Tumor MRI Multi-Class Classification Pipeline Configuration
+
+project:
+  name: "brain-tumor-mri-classification"
+  seed: 42
+  version: "1.0.0"
+
+dataset:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  classes:
+    - "glioma_tumor"
+    - "meningioma_tumor"
+    - "no_tumor"
+    - "pituitary_tumor"
+  num_classes: 4
+  split_ratios:
+    train: 0.70
+    val: 0.15
+    test: 0.15
+
+image:
+  target_size: [224, 224]
+  channels: 3
+  color_mode: "rgb"
+  rescale: 1.0
+
+augmentation:
+  rotation_range: 15
+  width_shift_range: 0.10
+  height_shift_range: 0.10
+  shear_range: 0.10
+  zoom_range: 0.10
+  horizontal_flip: true
+  fill_mode: "nearest"
+
+training:
+  batch_size: 32
+  epochs: 15
+  learning_rate: 0.001
+  optimizer: "adam"
+  loss: "categorical_crossentropy"
+  early_stopping:
+    monitor: "val_loss"
+    patience: 5
+    restore_best_weights: true
+  reduce_lr:
+    monitor: "val_loss"
+    factor: 0.2
+    patience: 3
+    min_lr: 0.000001
+
+transfer_learning:
+  mobilenet_v2:
+    weights: "imagenet"
+    dropout_rate: 0.3
+    dense_units: 128
+    learning_rate: 0.0005
+    epochs: 12
+  efficientnet_b0:
+    weights: "imagenet"
+    phase1_epochs: 8
+    phase1_lr: 0.001
+    phase2_epochs: 8
+    phase2_lr: 0.00001
+    unfreeze_layers: 20
+
+paths:
+  saved_models_dir: "saved_models"
+  best_model_path: "saved_models/best_brain_tumor_model.keras"
+  custom_cnn_path: "saved_models/custom_cnn_model.keras"
+  mobilenet_path: "saved_models/mobilenet_v2_model.keras"
+  efficientnet_path: "saved_models/efficientnet_b0_model.keras"
+  metrics_report_path: "saved_models/model_comparison_metrics.json"

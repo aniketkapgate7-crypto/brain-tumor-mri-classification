@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw and processed dataset binary exclusions
+data/raw/*
+!data/raw/.gitkeep
+data/processed/train/
+data/processed/val/
+data/processed/test/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log and temporary files
+*.log
