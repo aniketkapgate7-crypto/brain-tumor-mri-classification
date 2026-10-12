@@ -1,3 +1,11 @@
+# 🧠 NeuroScan AI — Brain Tumor MRI Multi-Class Classification
+
+[[https://static.streamlit.io/badges/streamlit_badge_black_white.svg]](https://brain-tumor-mri-classification-4per77h7cyjp7fwgei5ty7.streamlit.app)
+[[https://img.shields.io/badge/GitHub-Repository-blue?logo=github]](https://github.com/aniketkapgate7-crypto/brain-tumor-mri-classification)
+[[https://img.shields.io/badge/python-3.11-blue.svg]](https://www.python.org/downloads/release/python-3110/)
+
+> **Live Demo**: [https://brain-tumor-mri-classification-4per77h7cyjp7fwgei5ty7.streamlit.app](https://brain-tumor-mri-classification-4per77h7cyjp7fwgei5ty7.streamlit.app)
+
 # 🧠 NeuroScan AI — Brain Tumor MRI Multi-Class Classification & Grad-CAM Diagnostic Assistant
 
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
